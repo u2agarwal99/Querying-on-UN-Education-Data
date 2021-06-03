@@ -1,0 +1,2328 @@
+DROP SCHEMA
+CREATE SCHEMA
+SET
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+COPY 248
+UPDATE 1
+UPDATE 1
+UPDATE 1
+DELETE 1
+UPDATE 80
+INSERT 0 11
+INSERT 0 247
+DROP TABLE
+COPY 760
+COPY 723
+CREATE TABLE
+COPY 889
+CREATE TABLE
+COPY 854
+CREATE TABLE
+COPY 1071
+CREATE TABLE
+COPY 1071
+CREATE TABLE
+COPY 664
+CREATE VIEW
+INSERT 0 34
+INSERT 0 459
+DROP VIEW
+DROP TABLE
+DROP TABLE
+DROP TABLE
+DROP TABLE
+DROP TABLE
+ count 
+-------
+    11
+(1 row)
+
+ count 
+-------
+   247
+(1 row)
+
+ count 
+-------
+    34
+(1 row)
+
+ count 
+-------
+   459
+(1 row)
+
+ count 
+-------
+   760
+(1 row)
+
+ count 
+-------
+   723
+(1 row)
+
+             region              
+---------------------------------
+ south-eastern asia
+ oceania
+ northern america
+ europe
+ southern asia
+ central asia
+ northern africa
+ sub-saharan africa
+ western asia
+ latin america and the caribbean
+ eastern asia
+(11 rows)
+
+                   country                    |             region              
+----------------------------------------------+---------------------------------
+ bahrain                                      | western asia
+ taiwan, province of china                    | eastern asia
+ samoa                                        | oceania
+ bhutan                                       | southern asia
+ dem. people's rep. of korea                  | eastern asia
+ djibouti                                     | sub-saharan africa
+ benin                                        | sub-saharan africa
+ algeria                                      | northern africa
+ côte d’ivoire                                | sub-saharan africa
+ saint martin                                 | latin america and the caribbean
+ myanmar                                      | south-eastern asia
+ vanuatu                                      | oceania
+ norway                                       | europe
+ saint kitts and nevis                        | latin america and the caribbean
+ bonaire, sint eustatius and saba             | latin america and the caribbean
+ belize                                       | latin america and the caribbean
+ bolivia                                      | latin america and the caribbean
+ argentina                                    | latin america and the caribbean
+ kenya                                        | sub-saharan africa
+ chile                                        | latin america and the caribbean
+ liechtenstein                                | europe
+ romania                                      | europe
+ canada                                       | northern america
+ guinea-bissau                                | sub-saharan africa
+ tokelau                                      | oceania
+ switzerland                                  | europe
+ saint vincent & grenadines                   | latin america and the caribbean
+ australia                                    | oceania
+ nauru                                        | oceania
+ guyana                                       | latin america and the caribbean
+ comoros                                      | sub-saharan africa
+ india                                        | southern asia
+ sierra leone                                 | sub-saharan africa
+ latvia                                       | europe
+ senegal                                      | sub-saharan africa
+ solomon islands                              | oceania
+ mexico                                       | latin america and the caribbean
+ zambia                                       | sub-saharan africa
+ sint maarten                                 | latin america and the caribbean
+ guatemala                                    | latin america and the caribbean
+ syrian arab republic                         | western asia
+ greece                                       | europe
+ sri lanka                                    | southern asia
+ czechia                                      | europe
+ ethiopia                                     | sub-saharan africa
+ china, hong kong sar                         | eastern asia
+ libya                                        | northern africa
+ jordan                                       | western asia
+ qatar                                        | western asia
+ eritrea                                      | sub-saharan africa
+ liberia                                      | sub-saharan africa
+ cameroon                                     | sub-saharan africa
+ cook islands                                 | oceania
+ isle of man                                  | europe
+ dominican republic                           | latin america and the caribbean
+ northern mariana islands                     | oceania
+ sao tome and principe                        | sub-saharan africa
+ congo                                        | sub-saharan africa
+ western sahara                               | northern africa
+ ireland                                      | europe
+ madagascar                                   | sub-saharan africa
+ kyrgyzstan                                   | central asia
+ french guiana                                | latin america and the caribbean
+ denmark                                      | europe
+ saint barthélemy                             | latin america and the caribbean
+ svalbard and jan mayen                       | europe
+ malta                                        | europe
+ mali                                         | sub-saharan africa
+ mozambique                                   | sub-saharan africa
+ lebanon                                      | western asia
+ barbados                                     | latin america and the caribbean
+ uganda                                       | sub-saharan africa
+ timor-leste                                  | south-eastern asia
+ malawi                                       | sub-saharan africa
+ martinique                                   | latin america and the caribbean
+ chad                                         | sub-saharan africa
+ curaçao                                      | latin america and the caribbean
+ panama                                       | latin america and the caribbean
+ niue                                         | oceania
+ gabon                                        | sub-saharan africa
+ saint lucia                                  | latin america and the caribbean
+ hungary                                      | europe
+ france                                       | europe
+ el salvador                                  | latin america and the caribbean
+ central african republic                     | sub-saharan africa
+ nicaragua                                    | latin america and the caribbean
+ åland islands                                | europe
+ rwanda                                       | sub-saharan africa
+ seychelles                                   | sub-saharan africa
+ united states of america                     | northern america
+ sweden                                       | europe
+ malaysia                                     | south-eastern asia
+ egypt                                        | northern africa
+ palau                                        | oceania
+ togo                                         | sub-saharan africa
+ réunion                                      | sub-saharan africa
+ serbia                                       | europe
+ tunisia                                      | northern africa
+ united arab emirates                         | western asia
+ philippines                                  | south-eastern asia
+ burundi                                      | sub-saharan africa
+ norfolk island                               | oceania
+ belgium                                      | europe
+ oman                                         | western asia
+ guam                                         | oceania
+ morocco                                      | northern africa
+ namibia                                      | sub-saharan africa
+ mauritius                                    | sub-saharan africa
+ burkina faso                                 | sub-saharan africa
+ poland                                       | europe
+ turkmenistan                                 | central asia
+ azerbaijan                                   | western asia
+ united rep. of tanzania                      | sub-saharan africa
+ colombia                                     | latin america and the caribbean
+ thailand                                     | south-eastern asia
+ cabo verde                                   | sub-saharan africa
+ albania                                      | europe
+ peru                                         | latin america and the caribbean
+ guernsey                                     | europe
+ state of palestine                           | western asia
+ austria                                      | europe
+ anguilla                                     | latin america and the caribbean
+ italy                                        | europe
+ iran                                         | southern asia
+ gambia                                       | sub-saharan africa
+ slovakia                                     | europe
+ christmas island                             | oceania
+ nigeria                                      | sub-saharan africa
+ belarus                                      | europe
+ lithuania                                    | europe
+ uruguay                                      | latin america and the caribbean
+ turkey                                       | western asia
+ guinea                                       | sub-saharan africa
+ british virgin islands                       | latin america and the caribbean
+ botswana                                     | sub-saharan africa
+ montserrat                                   | latin america and the caribbean
+ mauritania                                   | sub-saharan africa
+ jersey                                       | europe
+ united kingdom                               | europe
+ monaco                                       | europe
+ tajikistan                                   | central asia
+ mayotte                                      | sub-saharan africa
+ kuwait                                       | western asia
+ sudan                                        | northern africa
+ wallis and futuna                            | oceania
+ cambodia                                     | south-eastern asia
+ french southern territories                  | sub-saharan africa
+ brazil                                       | latin america and the caribbean
+ viet nam                                     | south-eastern asia
+ saudi arabia                                 | western asia
+ saint helena, ascension and tristan da cunha | sub-saharan africa
+ germany                                      | europe
+ afghanistan                                  | southern asia
+ uzbekistan                                   | central asia
+ netherlands                                  | europe
+ tonga                                        | oceania
+ china                                        | eastern asia
+ bahamas                                      | latin america and the caribbean
+ yemen                                        | western asia
+ dem. rep. of the congo                       | sub-saharan africa
+ brunei darussalam                            | south-eastern asia
+ georgia                                      | western asia
+ kazakhstan                                   | central asia
+ fiji                                         | oceania
+ maldives                                     | southern asia
+ puerto rico                                  | latin america and the caribbean
+ iraq                                         | western asia
+ china, macao sar                             | eastern asia
+ armenia                                      | western asia
+ andorra                                      | europe
+ ecuador                                      | latin america and the caribbean
+ israel                                       | western asia
+ haiti                                        | latin america and the caribbean
+ portugal                                     | europe
+ indonesia                                    | south-eastern asia
+ suriname                                     | latin america and the caribbean
+ cayman islands                               | latin america and the caribbean
+ antigua and barbuda                          | latin america and the caribbean
+ singapore                                    | south-eastern asia
+ luxembourg                                   | europe
+ tuvalu                                       | oceania
+ slovenia                                     | europe
+ gibraltar                                    | europe
+ holy see                                     | europe
+ nepal                                        | southern asia
+ papua new guinea                             | oceania
+ faroe islands                                | europe
+ somalia                                      | sub-saharan africa
+ finland                                      | europe
+ lesotho                                      | sub-saharan africa
+ falkland islands                             | latin america and the caribbean
+ grenada                                      | latin america and the caribbean
+ trinidad and tobago                          | latin america and the caribbean
+ french polynesia                             | oceania
+ croatia                                      | europe
+ honduras                                     | latin america and the caribbean
+ niger                                        | sub-saharan africa
+ equatorial guinea                            | sub-saharan africa
+ cyprus                                       | western asia
+ pitcairn                                     | oceania
+ republic of korea                            | eastern asia
+ eswatini                                     | sub-saharan africa
+ zimbabwe                                     | sub-saharan africa
+ dominica                                     | latin america and the caribbean
+ japan                                        | eastern asia
+ american samoa                               | oceania
+ micronesia                                   | oceania
+ new zealand                                  | oceania
+ kiribati                                     | oceania
+ cuba                                         | latin america and the caribbean
+ russian federation                           | europe
+ turks and caicos islands                     | latin america and the caribbean
+ jamaica                                      | latin america and the caribbean
+ south georgia and the south sandwich islands | latin america and the caribbean
+ british indian ocean territory               | sub-saharan africa
+ mongolia                                     | eastern asia
+ spain                                        | europe
+ pakistan                                     | southern asia
+ estonia                                      | europe
+ guadeloupe                                   | latin america and the caribbean
+ iceland                                      | europe
+ united states minor outlying islands         | oceania
+ north macedonia                              | europe
+ lao people's dem. rep.                       | south-eastern asia
+ bulgaria                                     | europe
+ republic of moldova                          | europe
+ aruba                                        | latin america and the caribbean
+ bosnia and herzegovina                       | europe
+ venezuela                                    | latin america and the caribbean
+ ghana                                        | sub-saharan africa
+ montenegro                                   | europe
+ greenland                                    | northern america
+ costa rica                                   | latin america and the caribbean
+ ukraine                                      | europe
+ saint pierre and miquelon                    | northern america
+ bouvet island                                | latin america and the caribbean
+ paraguay                                     | latin america and the caribbean
+ south africa                                 | sub-saharan africa
+ bermuda                                      | northern america
+ cocos                                        | oceania
+ south sudan                                  | sub-saharan africa
+ san marino                                   | europe
+ marshall islands                             | oceania
+ new caledonia                                | oceania
+ heard island and mcdonald islands            | oceania
+ bangladesh                                   | southern asia
+ angola                                       | sub-saharan africa
+(247 rows)
+
+       region       | educationlevel | yearrange | teachers | pupilteacherratio | grossenrollmentratiomale | grossenrollmentratiofemale 
+--------------------+----------------+-----------+----------+-------------------+--------------------------+----------------------------
+ eastern asia       | Primary        | 2005-2010 |  6683.28 |           18.9061 |                  103.445 |                    103.163
+ europe             | Primary        | 2005-2010 |     2673 |           14.3908 |                   102.07 |                    101.314
+ northern africa    | Primary        | 2005-2010 |  944.313 |           24.3807 |                  96.9346 |                    89.9283
+ northern america   | Primary        | 2005-2010 |  1864.55 |           14.3516 |                  101.991 |                    100.915
+ oceania            | Primary        | 2005-2010 |  158.701 |           19.7957 |                  91.0423 |                    89.0703
+ south-eastern asia | Primary        | 2005-2010 |  2938.56 |           23.2267 |                  106.834 |                    103.829
+ southern asia      | Primary        | 2005-2010 |  4583.45 |           39.5948 |                  104.758 |                    100.128
+ sub-saharan africa | Primary        | 2005-2010 |  2576.06 |           44.0129 |                  100.758 |                    88.8994
+ western asia       | Primary        | 2005-2010 |  1289.42 |           18.7475 |                  104.992 |                     95.639
+ eastern asia       | Primary        | 2010-2015 |  6619.94 |           17.0018 |                  98.0184 |                    97.3187
+ europe             | Primary        | 2010-2015 |  2673.65 |            13.746 |                   101.59 |                    101.368
+ northern africa    | Primary        | 2010-2015 |  971.574 |           24.2881 |                  100.953 |                    96.6574
+ northern america   | Primary        | 2010-2015 |   1919.9 |           13.8369 |                  100.277 |                    99.7311
+ oceania            | Primary        | 2010-2015 |  175.001 |           20.3191 |                   103.05 |                    99.8211
+ south-eastern asia | Primary        | 2010-2015 |  3244.52 |           21.0593 |                  107.708 |                    106.857
+ southern asia      | Primary        | 2010-2015 |  5275.31 |           36.3657 |                  104.491 |                    107.574
+ sub-saharan africa | Primary        | 2010-2015 |  3167.72 |           42.8995 |                  102.563 |                    96.2365
+ western asia       | Primary        | 2010-2015 |  1443.71 |           17.5962 |                  105.395 |                    98.1964
+ eastern asia       | Secondary      | 2005-2010 |  6499.98 |           17.7265 |                  70.4568 |                    69.1613
+ europe             | Secondary      | 2005-2010 |  5836.13 |           11.1842 |                  97.7422 |                     97.541
+ northern africa    | Secondary      | 2005-2010 |  993.039 |           17.0157 |                  69.8168 |                    68.9041
+ northern america   | Secondary      | 2005-2010 |  1773.98 |           15.2387 |                  94.9505 |                    96.3345
+ south-eastern asia | Secondary      | 2005-2010 |  2237.45 |           18.2418 |                   62.563 |                    62.3813
+ southern asia      | Secondary      | 2005-2010 |   4156.4 |           29.0486 |                  54.8075 |                    47.0433
+ sub-saharan africa | Secondary      | 2005-2010 |  1171.63 |            27.363 |                  35.7097 |                    27.9346
+ western asia       | Secondary      | 2005-2010 |  1339.85 |           14.7132 |                  79.7276 |                    68.6381
+ eastern asia       | Secondary      | 2010-2015 |  7514.52 |           14.8188 |                  87.5307 |                    88.2776
+ europe             | Secondary      | 2010-2015 |  5470.66 |           10.7181 |                  104.049 |                    103.509
+ northern africa    | Secondary      | 2010-2015 |  1161.76 |           14.9761 |                  74.8466 |                    73.5394
+ northern america   | Secondary      | 2010-2015 |  1898.02 |           14.1246 |                  96.3179 |                    97.2549
+ south-eastern asia | Secondary      | 2010-2015 |  2698.54 |           16.8749 |                  74.4258 |                    75.1502
+ southern asia      | Secondary      | 2010-2015 |  5699.08 |           25.1569 |                   64.883 |                    62.8135
+ sub-saharan africa | Secondary      | 2010-2015 |  1868.07 |           24.0426 |                   44.995 |                    37.8316
+ western asia       | Secondary      | 2010-2015 |  1591.75 |             14.07 |                  83.2555 |                    75.5381
+(34 rows)
+
+          country           | educationlevel | yearrange | publicexpenditure | teachers | pupilteacherratio | grossenrollmentratiomale | grossenrollmentratiofemale 
+----------------------------+----------------+-----------+-------------------+----------+-------------------+--------------------------+----------------------------
+ anguilla                   | Primary        | 2005-2010 |           33.9771 |    0.097 |           15.4149 |                  119.368 |                    118.326
+ argentina                  | Primary        | 2005-2010 |           34.1957 |  284.062 |           17.3367 |                  115.833 |                    114.747
+ aruba                      | Primary        | 2005-2010 |           26.7322 |    0.567 |           18.0776 |                  114.934 |                    107.811
+ austria                    | Primary        | 2005-2010 |           18.9953 |   29.239 |           12.4088 |                  100.908 |                    100.754
+ bangladesh                 | Primary        | 2005-2010 |            44.728 |  353.128 |           46.3989 |                  99.9997 |                    104.668
+ barbados                   | Primary        | 2005-2010 |           32.3752 |    1.511 |            14.844 |                  96.3096 |                    95.9429
+ benin                      | Primary        | 2005-2010 |             45.97 |   28.148 |           46.8289 |                  112.429 |                    88.9544
+ bermuda                    | Primary        | 2005-2010 |           40.7473 |    0.571 |            8.3363 |                  94.4505 |                    100.614
+ bhutan                     | Primary        | 2005-2010 |           22.3168 |    3.203 |           31.0515 |                  92.2058 |                    89.8837
+ botswana                   | Primary        | 2005-2010 |           23.9265 |   12.964 |           25.5149 |                  110.815 |                     108.86
+ brazil                     | Primary        | 2005-2010 |           34.0156 |  886.781 |           21.0437 |                  135.581 |                    128.676
+ british virgin islands     | Primary        | 2005-2010 |           31.0953 |    0.213 |           14.2105 |                   112.16 |                    109.268
+ bulgaria                   | Primary        | 2005-2010 |              20.3 |   17.873 |           16.2265 |                  103.885 |                    102.802
+ burkina faso               | Primary        | 2005-2010 |           69.1074 |   26.938 |           47.1764 |                  64.6491 |                    51.8041
+ burundi                    | Primary        | 2005-2010 |           51.5574 |   21.289 |            48.704 |                   87.275 |                    74.6891
+ cabo verde                 | Primary        | 2005-2010 |            40.203 |     3.19 |           26.0141 |                  116.694 |                    111.725
+ cameroon                   | Primary        | 2005-2010 |           35.0643 |   65.912 |            46.924 |                  113.176 |                     96.423
+ chad                       | Primary        | 2005-2010 |           45.7849 |  23.6885 |            62.087 |                  85.3118 |                    57.7772
+ chile                      | Primary        | 2005-2010 |           36.8972 |    66.06 |           26.0513 |                   106.89 |                    102.146
+ colombia                   | Primary        | 2005-2010 |            47.437 |  183.852 |           28.8288 |                    122.6 |                    120.407
+ comoros                    | Primary        | 2005-2010 |           61.7259 |    3.685 |           30.1533 |                  112.988 |                    104.143
+ congo                      | Primary        | 2005-2010 |           27.2544 |   10.433 |           64.3806 |                  111.765 |                    104.077
+ cuba                       | Primary        | 2005-2010 |            30.226 |   86.827 |           10.3084 |                  102.558 |                     99.577
+ cyprus                     | Primary        | 2005-2010 |            27.305 |    3.455 |           17.7271 |                  100.921 |                    100.791
+ czechia                    | Primary        | 2005-2010 |           14.5215 |   30.589 |           15.9516 |                  99.9047 |                    98.4871
+ djibouti                   | Primary        | 2005-2010 |           19.0141 |    1.627 |           34.1401 |                  53.4067 |                     48.844
+ dominican republic         | Primary        | 2005-2010 |            58.679 |   53.015 |           24.3279 |                  111.112 |                    105.548
+ el salvador                | Primary        | 2005-2010 |           44.4958 |   27.628 |           37.1218 |                  120.216 |                    116.119
+ estonia                    | Primary        | 2005-2010 |           25.2957 |    7.516 |           10.5893 |                   100.16 |                    97.5818
+ eswatini                   | Primary        | 2005-2010 |           39.8591 |   6.8235 |           33.0659 |                  119.378 |                    110.039
+ finland                    | Primary        | 2005-2010 |           20.7598 |   24.577 |           15.5342 |                  98.7891 |                    98.0327
+ gambia                     | Primary        | 2005-2010 |           61.4463 |    5.616 |           36.5646 |                  78.3713 |                    80.9452
+ georgia                    | Primary        | 2005-2010 |           35.9998 |   33.511 |            8.9205 |                  103.304 |                    104.142
+ ghana                      | Primary        | 2005-2010 |           39.4537 |   99.893 |           32.9627 |                  94.6917 |                    92.0921
+ guatemala                  | Primary        | 2005-2010 |           59.7898 |   75.519 |           31.0558 |                   113.65 |                     107.48
+ hungary                    | Primary        | 2005-2010 |           20.0893 |    41.23 |           10.4429 |                  99.1519 |                    97.1281
+ iran                       | Primary        | 2005-2010 |           22.4395 |  281.725 |           21.1157 |                  100.873 |                    97.4537
+ ireland                    | Primary        | 2005-2010 |           33.6461 |   25.416 |           17.8651 |                  103.262 |                    102.883
+ israel                     | Primary        | 2005-2010 |           37.5044 |  57.8065 |           13.0433 |                  104.491 |                     105.05
+ italy                      | Primary        | 2005-2010 |           24.5795 |  268.587 |           10.4103 |                  102.969 |                    101.576
+ kenya                      | Primary        | 2005-2010 |           54.1088 |  154.873 |           42.6549 |                  103.302 |                    99.9446
+ kuwait                     | Primary        | 2005-2010 |           20.1232 |    20.71 |            10.312 |                  103.034 |                    106.917
+ lao people's dem. rep.     | Primary        | 2005-2010 |           62.5326 |   28.299 |           31.4789 |                  120.198 |                    104.382
+ lesotho                    | Primary        | 2005-2010 |           39.5152 |   10.286 |           41.1842 |                  129.707 |                    127.961
+ liechtenstein              | Primary        | 2005-2010 |           30.8167 |    0.294 |            7.5631 |                  111.542 |                    102.468
+ lithuania                  | Primary        | 2005-2010 |           14.9172 |   11.237 |             14.07 |                  103.248 |                    102.421
+ madagascar                 | Primary        | 2005-2010 |            53.572 |   78.701 |           50.7455 |                  146.486 |                    141.719
+ malaysia                   | Primary        | 2005-2010 |           27.6763 |  189.521 |           16.8953 |                  99.9744 |                    100.011
+ maldives                   | Primary        | 2005-2010 |           54.1295 |    2.882 |           20.0809 |                  114.257 |                      109.3
+ mauritius                  | Primary        | 2005-2010 |           27.1653 |    5.531 |           22.3399 |                  103.339 |                    103.108
+ mexico                     | Primary        | 2005-2010 |           39.0791 |  519.112 |           28.3176 |                  109.573 |                    107.598
+ morocco                    | Primary        | 2005-2010 |           36.6292 |   146.58 |           26.8545 |                  110.945 |                    100.662
+ mozambique                 | Primary        | 2005-2010 |           57.6559 |   59.434 |           66.3396 |                  109.516 |                    91.3164
+ namibia                    | Primary        | 2005-2010 |           47.6008 |   13.675 |           29.9457 |                  115.908 |                    112.167
+ peru                       | Primary        | 2005-2010 |           35.5932 |   177.06 |           23.0281 |                  113.654 |                    113.994
+ philippines                | Primary        | 2005-2010 |           53.4846 |   404.21 |           33.2547 |                  107.429 |                    106.278
+ poland                     | Primary        | 2005-2010 |           30.9588 |   235.95 |           11.5434 |                   94.786 |                    94.2603
+ portugal                   | Primary        | 2005-2010 |           30.6402 |   71.519 |            10.525 |                  120.888 |                    115.142
+ qatar                      | Primary        | 2005-2010 |           17.6384 |    6.298 |           11.1132 |                  108.586 |                    103.736
+ romania                    | Primary        | 2005-2010 |           13.7699 |   57.099 |           16.9932 |                   110.46 |                    108.981
+ senegal                    | Primary        | 2005-2010 |           41.8092 |   34.656 |           41.6714 |                  81.3642 |                    78.4784
+ slovakia                   | Primary        | 2005-2010 |           17.1402 |   13.849 |           17.5073 |                  98.7658 |                    97.6417
+ south africa               | Primary        | 2005-2010 |           42.9478 |  222.648 |           32.4854 |                  107.753 |                    104.114
+ spain                      | Primary        | 2005-2010 |           25.7744 |   180.71 |           13.7508 |                  103.727 |                    102.349
+ sweden                     | Primary        | 2005-2010 |            26.238 |   65.516 |           10.0504 |                  95.9453 |                    95.6575
+ togo                       | Primary        | 2005-2010 |           41.7785 |  27.8855 |           36.3666 |                  121.513 |                    104.203
+ tunisia                    | Primary        | 2005-2010 |           30.9684 |   59.252 |           19.9875 |                  112.363 |                    110.774
+ united kingdom             | Primary        | 2005-2010 |            26.465 |  254.824 |           17.8718 |                  106.437 |                    106.332
+ united rep. of tanzania    | Primary        | 2005-2010 |           48.9647 |  135.013 |           55.8554 |                  106.995 |                    103.802
+ uruguay                    | Primary        | 2005-2010 |           33.5588 |   18.139 |           20.1519 |                   116.46 |                    113.365
+ zambia                     | Primary        | 2005-2010 |           59.7587 |   45.554 |            56.479 |                  115.374 |                    108.832
+ afghanistan                | Primary        | 2010-2015 |           62.1365 |  118.858 |           44.4171 |                  121.412 |                    83.6825
+ austria                    | Primary        | 2010-2015 |           17.1328 |   29.743 |           11.0283 |                  101.184 |                    100.209
+ bangladesh                 | Primary        | 2010-2015 |           44.6029 |  395.281 |           42.9748 |                  102.826 |                    109.254
+ belgium                    | Primary        | 2010-2015 |           23.3524 |   66.317 |           11.0343 |                  102.852 |                    102.718
+ belize                     | Primary        | 2010-2015 |           46.0529 |    2.367 |           22.2434 |                  114.486 |                    109.587
+ benin                      | Primary        | 2010-2015 |           52.8256 |  40.4165 |           45.2962 |                   130.78 |                    118.805
+ bermuda                    | Primary        | 2010-2015 |           30.3906 |    0.608 |            7.3569 |                  99.5301 |                    96.5417
+ bhutan                     | Primary        | 2010-2015 |            30.952 |    4.436 |            24.941 |                   106.43 |                    107.471
+ brazil                     | Primary        | 2010-2015 |           30.3058 |  762.132 |           22.1661 |                   116.71 |                    111.698
+ british virgin islands     | Primary        | 2010-2015 |           34.0679 |    0.242 |           13.2273 |                  113.898 |                    108.659
+ brunei darussalam          | Primary        | 2010-2015 |            28.541 |    3.896 |           11.3488 |                  106.111 |                    105.918
+ bulgaria                   | Primary        | 2010-2015 |            19.642 |  14.7405 |           17.6119 |                  102.754 |                    102.223
+ burkina faso               | Primary        | 2010-2015 |           60.3412 |   39.077 |           52.3999 |                   85.036 |                    80.2309
+ burundi                    | Primary        | 2010-2015 |           45.4176 |   41.722 |           47.1279 |                  135.045 |                     136.43
+ cambodia                   | Primary        | 2010-2015 |           49.4749 |   46.905 |           48.4496 |                  126.329 |                    117.848
+ cameroon                   | Primary        | 2010-2015 |           34.1618 |  85.1965 |            44.995 |                  117.868 |                    103.442
+ central african republic   | Primary        | 2010-2015 |            53.264 |    7.974 |           81.3105 |                  100.489 |                    74.5596
+ chad                       | Primary        | 2010-2015 |           46.7001 |   27.764 |           62.2039 |                  105.219 |                    78.2072
+ chile                      | Primary        | 2010-2015 |           31.7354 |   66.059 |           23.4115 |                   103.85 |                    100.786
+ china, hong kong sar       | Primary        | 2010-2015 |           19.7906 |   22.984 |           15.1649 |                   108.85 |                     109.82
+ colombia                   | Primary        | 2010-2015 |           35.9216 |   180.76 |           28.1311 |                  118.832 |                    115.973
+ congo                      | Primary        | 2010-2015 |           30.9983 |   15.437 |           46.7938 |                  107.504 |                    108.302
+ cook islands               | Primary        | 2010-2015 |           40.3611 |    0.123 |           14.9675 |                  98.6667 |                    93.4426
+ costa rica                 | Primary        | 2010-2015 |           41.9041 |   29.163 |           17.8517 |                  115.134 |                    113.501
+ cuba                       | Primary        | 2010-2015 |            29.035 |   93.414 |            9.1287 |                    102.5 |                    98.3349
+ cyprus                     | Primary        | 2010-2015 |           31.0081 |    3.985 |           13.7531 |                  100.181 |                     100.61
+ czechia                    | Primary        | 2010-2015 |           16.1766 |   25.374 |           18.8195 |                  101.333 |                    101.134
+ côte d’ivoire              | Primary        | 2010-2015 |           42.6642 |   74.703 |           42.5267 |                  92.9656 |                    80.6158
+ dem. rep. of the congo     | Primary        | 2010-2015 |           47.4649 |  312.784 |           37.0412 |                  111.757 |                    101.284
+ denmark                    | Primary        | 2010-2015 |           24.8731 |   43.538 |           10.7374 |                  100.673 |                    100.193
+ djibouti                   | Primary        | 2010-2015 |           34.0865 |    1.731 |           35.2351 |                  66.7969 |                    71.1387
+ ecuador                    | Primary        | 2010-2015 |           32.3874 |    96.17 |            21.984 |                  112.273 |                    112.896
+ estonia                    | Primary        | 2010-2015 |            27.639 |   6.4005 |           11.6115 |                  101.038 |                    99.9725
+ eswatini                   | Primary        | 2010-2015 |           48.9761 |    7.985 |           30.2106 |                  128.168 |                    115.723
+ ethiopia                   | Primary        | 2010-2015 |           28.3953 |  255.934 |           54.5639 |                  97.7399 |                    90.7176
+ fiji                       | Primary        | 2010-2015 |           41.5083 |    3.671 |           27.9973 |                  107.183 |                    107.256
+ finland                    | Primary        | 2010-2015 |           19.9068 |  25.5605 |           13.6813 |                  100.315 |                     99.776
+ gabon                      | Primary        | 2010-2015 |            29.427 |   12.961 |            24.531 |                  142.148 |                    137.686
+ gambia                     | Primary        | 2010-2015 |           62.6404 |    6.658 |           35.6735 |                  79.4268 |                    83.0019
+ germany                    | Primary        | 2010-2015 |            13.483 |  241.845 |           12.6838 |                  101.995 |                    101.527
+ guatemala                  | Primary        | 2010-2015 |           55.5538 |  101.976 |           24.9246 |                  110.364 |                    107.648
+ guinea                     | Primary        | 2010-2015 |           38.9046 |   34.861 |           44.0814 |                  96.3906 |                    80.5048
+ guinea-bissau              | Primary        | 2010-2015 |           55.5689 |    5.371 |           51.9252 |                   122.93 |                    114.462
+ guyana                     | Primary        | 2010-2015 |           29.8077 |    4.055 |            23.892 |                  98.7744 |                    95.5219
+ hungary                    | Primary        | 2010-2015 |           17.8417 |   36.675 |           10.5786 |                  101.688 |                    101.006
+ iceland                    | Primary        | 2010-2015 |           32.3755 |     2.96 |             9.928 |                  98.8201 |                    98.6692
+ indonesia                  | Primary        | 2010-2015 |           44.0612 |  1698.93 |           17.7855 |                  107.397 |                    107.833
+ iran                       | Primary        | 2010-2015 |           25.7844 |  287.096 |           25.9184 |                  103.334 |                    104.911
+ ireland                    | Primary        | 2010-2015 |           35.3453 |   32.155 |           15.9321 |                  102.474 |                      102.3
+ israel                     | Primary        | 2010-2015 |           41.1737 |    61.83 |           13.0588 |                  105.103 |                    105.537
+ lao people's dem. rep.     | Primary        | 2010-2015 |           43.5551 |   31.782 |           28.8321 |                  125.074 |                    116.318
+ latvia                     | Primary        | 2010-2015 |            28.489 |    9.566 |           11.8849 |                  101.918 |                    100.838
+ liechtenstein              | Primary        | 2010-2015 |           38.6201 |    0.337 |            6.1335 |                  105.833 |                    102.297
+ lithuania                  | Primary        | 2010-2015 |           16.7139 |    9.531 |           12.8484 |                  101.345 |                    100.633
+ madagascar                 | Primary        | 2010-2015 |           47.3518 |  108.101 |           40.9286 |                  145.237 |                    143.725
+ malawi                     | Primary        | 2010-2015 |           35.7482 |   44.981 |           77.6727 |                  138.949 |                    142.297
+ malaysia                   | Primary        | 2010-2015 |           30.3654 |  265.482 |           12.2163 |                  101.659 |                    102.486
+ mali                       | Primary        | 2010-2015 |           25.2806 |   40.052 |           50.3983 |                  85.6701 |                    74.6776
+ malta                      | Primary        | 2010-2015 |           21.6477 |    1.748 |           14.2935 |                  101.855 |                    102.723
+ mauritania                 | Primary        | 2010-2015 |           45.3778 |  15.1925 |           36.2651 |                  97.4615 |                    101.962
+ mauritius                  | Primary        | 2010-2015 |           26.9617 |    5.472 |           21.4605 |                  101.977 |                    103.282
+ mexico                     | Primary        | 2010-2015 |           35.7431 |  529.599 |           28.1467 |                  109.852 |                    108.769
+ mongolia                   | Primary        | 2010-2015 |           24.7346 |     9.06 |           30.2391 |                  114.761 |                    112.297
+ mozambique                 | Primary        | 2010-2015 |           49.2466 |  97.1435 |           56.6609 |                  115.946 |                    104.223
+ myanmar                    | Primary        | 2010-2015 |           50.4882 |  184.747 |           27.8901 |                  100.951 |                    98.9819
+ namibia                    | Primary        | 2010-2015 |           28.4398 |   13.652 |           29.7784 |                  120.591 |                    115.681
+ nepal                      | Primary        | 2010-2015 |           55.7012 |  166.035 |           28.7768 |                  139.332 |                    149.945
+ nicaragua                  | Primary        | 2010-2015 |           39.8119 |   30.571 |           30.2164 |                  121.132 |                    120.122
+ niger                      | Primary        | 2010-2015 |           60.9779 |    44.71 |           38.6145 |                  74.5084 |                     62.065
+ pakistan                   | Primary        | 2010-2015 |           32.6824 |  463.674 |           40.4516 |                  90.8417 |                    77.5186
+ panama                     | Primary        | 2010-2015 |            23.471 |   18.746 |           23.4581 |                  103.649 |                    100.535
+ paraguay                   | Primary        | 2010-2015 |           38.3804 |   34.694 |           24.1597 |                  104.982 |                     101.97
+ peru                       | Primary        | 2010-2015 |           39.8604 |  191.177 |           19.6817 |                  105.392 |                    105.618
+ poland                     | Primary        | 2010-2015 |           31.0335 |  225.544 |           9.75455 |                  98.4748 |                     98.188
+ portugal                   | Primary        | 2010-2015 |           26.9713 |   67.734 |           10.8294 |                  111.794 |                    107.802
+ puerto rico                | Primary        | 2010-2015 |            22.004 |   25.708 |           11.6596 |                  92.9882 |                    94.9597
+ republic of moldova        | Primary        | 2010-2015 |           20.3575 |     9.16 |           15.4145 |                  93.4912 |                    93.1028
+ romania                    | Primary        | 2010-2015 |           16.4081 |   52.272 |           16.1126 |                  100.136 |                    98.3715
+ rwanda                     | Primary        | 2010-2015 |           36.7372 |   35.583 |           64.6187 |                  142.523 |                    146.085
+ saint vincent & grenadines | Primary        | 2010-2015 |           41.3827 |    0.887 |            16.274 |                  111.644 |                    107.917
+ san marino                 | Primary        | 2010-2015 |           32.5084 |   0.2475 |             6.367 |                  107.924 |                     112.03
+ senegal                    | Primary        | 2010-2015 |           43.2123 |   50.369 |           33.6518 |                  81.2336 |                    88.4518
+ serbia                     | Primary        | 2010-2015 |           45.8555 |   17.314 |           16.3545 |                   98.522 |                    98.5051
+ seychelles                 | Primary        | 2010-2015 |           37.4361 |    0.691 |            12.547 |                  106.785 |                    109.257
+ slovakia                   | Primary        | 2010-2015 |           20.6537 |   13.938 |           15.2404 |                  101.058 |                    100.135
+ slovenia                   | Primary        | 2010-2015 |           28.5271 |    6.281 |           17.0169 |                  99.5072 |                    99.7106
+ south africa               | Primary        | 2010-2015 |           40.6292 |  238.032 |           29.5102 |                  105.737 |                    101.664
+ spain                      | Primary        | 2010-2015 |           25.5447 |  219.409 |           12.4015 |                  105.412 |                    105.727
+ sri lanka                  | Primary        | 2010-2015 |           25.0467 |   71.839 |           24.1721 |                   101.85 |                    99.4278
+ sweden                     | Primary        | 2010-2015 |           24.2866 |   60.396 |            9.5389 |                  109.679 |                    112.698
+ switzerland                | Primary        | 2010-2015 |           27.9699 |  47.0975 |           10.2753 |                   103.45 |                    103.501
+ thailand                   | Primary        | 2010-2015 |           40.5955 |  326.614 |           15.8254 |                  99.3902 |                    99.5845
+ timor-leste                | Primary        | 2010-2015 |           64.8913 |    7.668 |           30.7768 |                  127.753 |                    122.702
+ togo                       | Primary        | 2010-2015 |            51.676 |  31.7275 |           40.7604 |                   130.56 |                    120.264
+ uganda                     | Primary        | 2010-2015 |           53.2118 |  172.403 |            48.176 |                  116.325 |                    117.713
+ ukraine                    | Primary        | 2010-2015 |           18.0335 |   98.371 |           15.6579 |                   98.289 |                    99.6093
+ united kingdom             | Primary        | 2010-2015 |           30.0924 |   262.36 |           17.0399 |                  103.593 |                    103.208
+ united rep. of tanzania    | Primary        | 2010-2015 |           49.1503 |  180.987 |           45.8318 |                  88.1689 |                    91.9485
+ uruguay                    | Primary        | 2010-2015 |           27.8764 |   24.785 |            13.794 |                    113.6 |                    110.493
+ viet nam                   | Primary        | 2010-2015 |           29.8524 |   347.84 |           19.9018 |                  109.257 |                    106.701
+ zimbabwe                   | Primary        | 2010-2015 |           49.6743 |   73.148 |           36.4082 |                  111.076 |                    108.712
+ anguilla                   | Secondary      | 2005-2010 |           53.6732 |    0.089 |           11.4574 |                  100.836 |                    98.3585
+ argentina                  | Secondary      | 2005-2010 |           41.6871 |  290.421 |           13.6781 |                  88.8204 |                     96.801
+ aruba                      | Secondary      | 2005-2010 |           26.7684 |    0.502 |           14.1753 |                   95.765 |                    96.1139
+ austria                    | Secondary      | 2005-2010 |           45.9373 |   71.135 |           10.9832 |                  102.778 |                    97.8061
+ bangladesh                 | Secondary      | 2005-2010 |           40.2057 |  404.926 |           26.0435 |                  46.8333 |                    50.1949
+ barbados                   | Secondary      | 2005-2010 |           30.5326 |    1.389 |           15.2363 |                  109.113 |                    107.956
+ bermuda                    | Secondary      | 2005-2010 |            52.285 |    0.682 |            6.9736 |                  72.9825 |                    80.9846
+ bhutan                     | Secondary      | 2005-2010 |           50.9436 |    1.499 |           28.1147 |                   46.326 |                    42.7165
+ botswana                   | Secondary      | 2005-2010 |           36.1557 |  12.7305 |           13.7989 |                  82.4303 |                    84.8016
+ brazil                     | Secondary      | 2005-2010 |           38.7885 |  1611.58 |           15.4278 |                  93.9847 |                    104.169
+ british virgin islands     | Secondary      | 2005-2010 |           34.4831 |    0.213 |            8.9897 |                  107.376 |                    116.692
+ bulgaria                   | Secondary      | 2005-2010 |           45.9355 |   57.253 |           11.9756 |                  91.0423 |                    87.3167
+ burundi                    | Secondary      | 2005-2010 |           33.1097 |    7.498 |           22.8208 |                  14.9529 |                    11.0235
+ cabo verde                 | Secondary      | 2005-2010 |           34.7655 |    2.241 |           23.5034 |                  66.8304 |                    75.2758
+ cameroon                   | Secondary      | 2005-2010 |           51.9921 |   45.687 |           21.2353 |                  37.1875 |                    30.3165
+ central african republic   | Secondary      | 2005-2010 |           25.9133 |    1.166 |           80.0523 |                  17.4065 |                     9.8354
+ chad                       | Secondary      | 2005-2010 |           35.4848 |  10.1775 |           32.9381 |                  23.1702 |                     8.0297
+ chile                      | Secondary      | 2005-2010 |           37.1144 |   65.813 |           24.7687 |                  92.9039 |                    94.1103
+ china, hong kong sar       | Secondary      | 2005-2010 |           33.8157 |   27.581 |           18.0687 |                  81.9397 |                    82.7249
+ colombia                   | Secondary      | 2005-2010 |           36.1277 |  175.734 |            26.414 |                  78.6698 |                    87.2285
+ cuba                       | Secondary      | 2005-2010 |           36.8437 |   84.827 |           11.0518 |                  92.2962 |                    93.8511
+ cyprus                     | Secondary      | 2005-2010 |           44.8852 |    5.694 |           11.2914 |                  95.6543 |                    97.4789
+ czechia                    | Secondary      | 2005-2010 |           51.3121 |   92.476 |           10.4981 |                  94.8168 |                    96.5693
+ dominican republic         | Secondary      | 2005-2010 |           17.9537 |   30.583 |           26.4314 |                  64.8911 |                    77.5294
+ el salvador                | Secondary      | 2005-2010 |           25.5672 |  20.4665 |           26.6414 |                  67.7245 |                    67.7799
+ eswatini                   | Secondary      | 2005-2010 |           34.9195 |     4.11 |           18.0396 |                  56.2323 |                    53.8721
+ finland                    | Secondary      | 2005-2010 |           41.9344 |   41.982 |           10.2567 |                  109.348 |                    114.342
+ georgia                    | Secondary      | 2005-2010 |           36.9695 |   45.147 |            7.5675 |                  95.2585 |                    98.5938
+ ghana                      | Secondary      | 2005-2010 |           32.5161 |  86.0165 |           18.5387 |                  47.6089 |                    41.0853
+ greece                     | Secondary      | 2005-2010 |           33.9436 |   86.439 |            8.0842 |                  103.141 |                    98.3895
+ guatemala                  | Secondary      | 2005-2010 |           12.8191 |   47.904 |           15.7502 |                  44.7846 |                    41.6905
+ hungary                    | Secondary      | 2005-2010 |           40.3856 |   96.588 |            9.9414 |                  96.7463 |                    95.7625
+ israel                     | Secondary      | 2005-2010 |           28.9107 |  69.5705 |           9.82505 |                  106.269 |                    105.642
+ italy                      | Secondary      | 2005-2010 |           46.5005 |  439.202 |           10.3206 |                  99.6247 |                    98.9317
+ kenya                      | Secondary      | 2005-2010 |           21.6778 |   93.272 |           30.3253 |                  54.0951 |                    49.6567
+ kuwait                     | Secondary      | 2005-2010 |           36.2201 |   31.206 |            8.1747 |                  104.796 |                    114.728
+ lesotho                    | Secondary      | 2005-2010 |            19.396 |     3.61 |           26.4144 |                  34.6623 |                    43.9247
+ liechtenstein              | Secondary      | 2005-2010 |           49.8174 |   0.3335 |           9.42385 |                   115.25 |                     100.14
+ lithuania                  | Secondary      | 2005-2010 |           50.5607 |   42.763 |            9.9082 |                  104.815 |                    104.166
+ madagascar                 | Secondary      | 2005-2010 |           18.9232 |  36.1785 |           22.5194 |                  26.7729 |                    25.3459
+ malaysia                   | Secondary      | 2005-2010 |           32.8058 |  153.031 |           16.2654 |                  76.7978 |                    84.7114
+ mauritius                  | Secondary      | 2005-2010 |           44.1812 |    7.433 |            17.414 |                  89.6709 |                    87.6169
+ mexico                     | Secondary      | 2005-2010 |           30.2601 |  593.451 |           17.8016 |                  80.5659 |                    84.0333
+ mozambique                 | Secondary      | 2005-2010 |           29.2702 |    9.509 |           32.1671 |                  15.9828 |                    10.9309
+ namibia                    | Secondary      | 2005-2010 |           18.6786 |   6.1595 |           24.8718 |                   60.882 |                     68.319
+ peru                       | Secondary      | 2005-2010 |           31.3858 |  147.654 |           16.7257 |                  83.5647 |                    83.3616
+ philippines                | Secondary      | 2005-2010 |           28.2428 |  181.061 |           36.3416 |                  79.6158 |                    87.5767
+ poland                     | Secondary      | 2005-2010 |           36.6099 |  296.029 |           11.6371 |                  99.8784 |                    99.2728
+ portugal                   | Secondary      | 2005-2010 |           40.7537 |   93.803 |            7.1376 |                  93.3793 |                    102.696
+ qatar                      | Secondary      | 2005-2010 |           14.7406 |    4.814 |           11.5715 |                  103.895 |                    96.0549
+ romania                    | Secondary      | 2005-2010 |           44.2712 |  161.551 |           12.9349 |                   81.718 |                    83.2717
+ senegal                    | Secondary      | 2005-2010 |           22.4165 |   15.394 |           26.3674 |                  25.6415 |                     19.145
+ slovakia                   | Secondary      | 2005-2010 |           48.8994 |   50.526 |           13.1152 |                  92.8467 |                    93.7281
+ south africa               | Secondary      | 2005-2010 |           31.0948 |  164.362 |           28.9748 |                  84.3189 |                    90.5264
+ spain                      | Secondary      | 2005-2010 |           39.4508 |   280.03 |           11.0982 |                  113.724 |                    121.179
+ sweden                     | Secondary      | 2005-2010 |            38.215 |   76.125 |            9.6617 |                  104.287 |                     103.82
+ tunisia                    | Secondary      | 2005-2010 |           44.4622 |   71.882 |           17.2431 |                  80.5342 |                    88.9446
+ united kingdom             | Secondary      | 2005-2010 |           45.3888 |  381.458 |           14.5674 |                  103.892 |                     107.04
+ uruguay                    | Secondary      | 2005-2010 |            35.741 |   22.122 |           14.6048 |                  93.8552 |                    108.524
+ austria                    | Secondary      | 2010-2015 |           44.3599 |   74.576 |            9.9725 |                  101.128 |                    97.2458
+ bangladesh                 | Secondary      | 2010-2015 |           39.0991 |   389.13 |           31.7673 |                  53.2861 |                    58.6299
+ belize                     | Secondary      | 2010-2015 |           41.1291 |    1.947 |           16.8362 |                  75.1506 |                    79.9363
+ bermuda                    | Secondary      | 2010-2015 |           44.8751 |    0.825 |            5.3552 |                  71.4523 |                    82.8668
+ bhutan                     | Secondary      | 2010-2015 |           54.7771 |   3.0635 |           20.6462 |                  72.7332 |                    78.6051
+ brazil                     | Secondary      | 2010-2015 |           44.8914 |  1412.58 |           16.6636 |                  96.7724 |                    105.167
+ british virgin islands     | Secondary      | 2010-2015 |           33.9873 |    0.233 |            8.7082 |                  97.6212 |                    103.297
+ bulgaria                   | Secondary      | 2010-2015 |            40.944 |   41.629 |           12.6553 |                  99.0166 |                    95.2495
+ burkina faso               | Secondary      | 2010-2015 |           18.0019 |    17.78 |            30.258 |                  28.5764 |                    23.5961
+ burundi                    | Secondary      | 2010-2015 |           26.8172 |   13.474 |           33.5788 |                  34.6018 |                     28.115
+ cameroon                   | Secondary      | 2010-2015 |            52.646 |   97.921 |           20.4254 |                  62.1351 |                    52.8349
+ central african republic   | Secondary      | 2010-2015 |            23.995 |    1.848 |           67.4743 |                  22.8628 |                    11.9232
+ chad                       | Secondary      | 2010-2015 |           26.0591 |   13.253 |           32.4744 |                  31.7014 |                    13.8392
+ chile                      | Secondary      | 2010-2015 |           32.5325 |   69.434 |           21.8657 |                  94.4628 |                    96.2591
+ china, hong kong sar       | Secondary      | 2010-2015 |           34.5581 |   30.474 |           16.6788 |                  95.0618 |                    94.3437
+ colombia                   | Secondary      | 2010-2015 |           34.8202 |  187.124 |           27.1463 |                  92.2003 |                    100.504
+ congo                      | Secondary      | 2010-2015 |           53.3317 |   18.165 |            18.676 |                  56.3444 |                    48.8121
+ cook islands               | Secondary      | 2010-2015 |           40.6087 |    0.117 |           16.1795 |                  82.9011 |                    88.0536
+ costa rica                 | Secondary      | 2010-2015 |           31.5112 |   26.676 |           15.5078 |                   108.01 |                    113.313
+ cuba                       | Secondary      | 2010-2015 |           29.1078 |   85.476 |            9.4635 |                  92.1176 |                     92.389
+ cyprus                     | Secondary      | 2010-2015 |           43.0116 |    6.526 |            9.7551 |                  95.1459 |                    95.7249
+ czechia                    | Secondary      | 2010-2015 |           45.7332 |   72.814 |           11.2624 |                  99.4222 |                    99.9453
+ côte d’ivoire              | Secondary      | 2010-2015 |            33.098 |   63.602 |           22.3006 |                  46.0766 |                    31.8425
+ dem. rep. of the congo     | Secondary      | 2010-2015 |           24.0472 |  249.822 |           15.0816 |                  52.9151 |                    32.8238
+ denmark                    | Secondary      | 2010-2015 |            34.519 |    49.05 |           11.2903 |                  122.835 |                    126.083
+ djibouti                   | Secondary      | 2010-2015 |           37.2825 |    1.827 |           27.8955 |                  44.6133 |                    42.2003
+ ecuador                    | Secondary      | 2010-2015 |           10.4359 |   82.989 |           19.9457 |                  98.4757 |                    103.277
+ estonia                    | Secondary      | 2010-2015 |            34.772 |   10.432 |            8.4295 |                  106.989 |                    106.703
+ eswatini                   | Secondary      | 2010-2015 |            34.777 |   5.3665 |            17.059 |                  71.9862 |                    70.0602
+ ethiopia                   | Secondary      | 2010-2015 |           25.0159 |  112.608 |           40.3506 |                  38.7249 |                    33.6315
+ fiji                       | Secondary      | 2010-2015 |           15.9448 |    5.041 |           19.2926 |                   85.665 |                    94.3446
+ finland                    | Secondary      | 2010-2015 |           42.4476 |  42.5805 |           11.3321 |                  122.429 |                    131.788
+ germany                    | Secondary      | 2010-2015 |           45.5476 |  593.815 |            12.906 |                  104.349 |                    99.2023
+ guatemala                  | Secondary      | 2010-2015 |           14.8155 |  84.7195 |            13.324 |                  53.9459 |                    50.9534
+ guinea                     | Secondary      | 2010-2015 |           24.8582 |   19.322 |           33.1355 |                  47.4873 |                    31.0408
+ guyana                     | Secondary      | 2010-2015 |           33.3447 |   4.0005 |           20.8568 |                  92.3501 |                    95.5516
+ hungary                    | Secondary      | 2010-2015 |           40.3003 |   88.749 |           10.1956 |                  100.796 |                    100.468
+ india                      | Secondary      | 2010-2015 |            39.169 |  4251.66 |           25.3282 |                  69.1258 |                    68.0721
+ indonesia                  | Secondary      | 2010-2015 |           25.5599 |  1550.14 |           13.8248 |                  79.5835 |                    79.5219
+ iran                       | Secondary      | 2010-2015 |            44.425 |  330.872 |           17.5129 |                  85.7119 |                     80.079
+ jamaica                    | Secondary      | 2010-2015 |           36.5675 |   18.222 |           14.2888 |                  79.5233 |                    85.5839
+ lao people's dem. rep.     | Secondary      | 2010-2015 |           34.2453 |   21.498 |           20.2213 |                  56.6806 |                    49.1252
+ latvia                     | Secondary      | 2010-2015 |           38.3937 |   16.375 |                 9 |                  109.313 |                    107.157
+ lithuania                  | Secondary      | 2010-2015 |           44.8594 |     38.8 |            8.8378 |                  108.184 |                    104.984
+ madagascar                 | Secondary      | 2010-2015 |           19.3449 |   64.622 |           23.1164 |                  38.7271 |                    37.9808
+ malawi                     | Secondary      | 2010-2015 |           24.2626 |   16.745 |           42.6793 |                  37.1136 |                    33.0839
+ malaysia                   | Secondary      | 2010-2015 |           33.9642 |  199.018 |           13.5006 |                  78.2821 |                    84.5119
+ mauritius                  | Secondary      | 2010-2015 |           52.6461 |    8.323 |           15.2592 |                  93.1277 |                    96.0603
+ mexico                     | Secondary      | 2010-2015 |            30.458 |   652.14 |           17.9126 |                  89.2634 |                    95.2208
+ mongolia                   | Secondary      | 2010-2015 |           34.4686 |   19.043 |           14.4926 |                  88.3474 |                    94.7508
+ mozambique                 | Secondary      | 2010-2015 |            30.604 |   22.654 |           37.0865 |                  31.6196 |                    27.0245
+ myanmar                    | Secondary      | 2010-2015 |           23.5443 |  92.0245 |           32.9404 |                  49.1661 |                    50.7571
+ nepal                      | Secondary      | 2010-2015 |           30.5038 |   95.444 |           30.5767 |                  64.3729 |                    66.3517
+ nicaragua                  | Secondary      | 2010-2015 |            13.233 |   15.089 |           30.8305 |                  69.1356 |                    77.9579
+ niger                      | Secondary      | 2010-2015 |             21.28 |    9.945 |           30.8371 |                   17.719 |                    12.2966
+ panama                     | Secondary      | 2010-2015 |           22.4274 |   18.501 |            15.339 |                  70.8094 |                    75.6553
+ paraguay                   | Secondary      | 2010-2015 |           34.5607 |   34.286 |           18.4041 |                  69.4813 |                     74.215
+ peru                       | Secondary      | 2010-2015 |           34.2154 |  167.262 |           15.9904 |                  94.4198 |                    94.9048
+ poland                     | Secondary      | 2010-2015 |           35.5027 |   276.29 |           9.92735 |                   102.57 |                    100.222
+ portugal                   | Secondary      | 2010-2015 |           44.0134 |   98.089 |            7.3473 |                  111.388 |                    111.465
+ puerto rico                | Secondary      | 2010-2015 |           24.6061 |   26.161 |           11.1231 |                  84.0972 |                    89.8687
+ republic of moldova        | Secondary      | 2010-2015 |           36.5196 |   29.299 |           10.4993 |                  86.8788 |                    88.4584
+ romania                    | Secondary      | 2010-2015 |           35.7516 |  146.017 |           12.4765 |                   97.992 |                    97.0135
+ saint lucia                | Secondary      | 2010-2015 |             45.33 |     1.02 |           15.7029 |                  91.0971 |                    90.2595
+ saint vincent & grenadines | Secondary      | 2010-2015 |           36.2682 |     0.68 |           16.8029 |                  105.825 |                    108.574
+ san marino                 | Secondary      | 2010-2015 |           37.6393 |    0.161 |           14.4969 |                  94.1475 |                    96.1062
+ serbia                     | Secondary      | 2010-2015 |           23.2586 |   61.541 |            9.6006 |                  91.9425 |                    93.8827
+ seychelles                 | Secondary      | 2010-2015 |           32.3212 |    0.592 |           12.7601 |                  74.8509 |                    79.1435
+ slovakia                   | Secondary      | 2010-2015 |           46.9399 |   45.689 |           12.0327 |                  90.9636 |                     92.001
+ slovenia                   | Secondary      | 2010-2015 |           37.0822 |   15.251 |            9.0718 |                  104.706 |                    104.731
+ spain                      | Secondary      | 2010-2015 |           36.9709 |  294.775 |           10.8049 |                  120.456 |                    122.084
+ sri lanka                  | Secondary      | 2010-2015 |           53.2243 |  149.886 |           17.2822 |                  96.7498 |                    99.6183
+ sweden                     | Secondary      | 2010-2015 |           35.5874 |   75.305 |            9.7108 |                  111.694 |                    119.619
+ switzerland                | Secondary      | 2010-2015 |           41.2695 |   65.468 |            9.2736 |                  98.7978 |                    96.1338
+ thailand                   | Secondary      | 2010-2015 |           29.2134 |  229.937 |           29.5369 |                  98.4181 |                    104.471
+ timor-leste                | Secondary      | 2010-2015 |           29.8189 |    4.428 |           23.6385 |                  64.5468 |                    66.2686
+ united kingdom             | Secondary      | 2010-2015 |            48.318 |  414.227 |           15.8295 |                  113.402 |                     115.95
+ united rep. of tanzania    | Secondary      | 2010-2015 |           14.7964 |    82.81 |           23.5159 |                    33.05 |                    29.3265
+ uruguay                    | Secondary      | 2010-2015 |           33.1749 |    25.39 |           12.6584 |                  93.2201 |                     109.49
+ zimbabwe                   | Secondary      | 2010-2015 |           26.2356 |   42.585 |           22.4835 |                  53.4913 |                    51.3457
+ algeria                    | Tertiary       | 2005-2010 |           26.9726 |   28.371 |           27.9201 |                  18.3611 |                    23.4771
+ anguilla                   | Tertiary       | 2005-2010 |           10.5759 |    0.014 |            3.8571 |                   1.4762 |                    5.87365
+ argentina                  | Tertiary       | 2005-2010 |            16.242 |  142.283 |           16.7768 |                  52.5903 |                    75.4685
+ armenia                    | Tertiary       | 2005-2010 |            9.3612 |   16.648 |            7.5537 |                  32.8492 |                    45.9512
+ aruba                      | Tertiary       | 2005-2010 |           11.4853 |    0.228 |            9.2368 |                  25.8942 |                    37.2927
+ bangladesh                 | Tertiary       | 2005-2010 |           13.5014 |   55.504 |           22.1898 |                  10.9778 |                     6.2584
+ belarus                    | Tertiary       | 2005-2010 |           25.4776 |   41.715 |           12.6695 |                  57.2247 |                    78.3719
+ belgium                    | Tertiary       | 2005-2010 |           21.6971 |   25.774 |            15.114 |                  54.5378 |                     67.916
+ brazil                     | Tertiary       | 2005-2010 |            18.995 |  292.504 |           15.6316 |                  27.3342 |                    35.7161
+ british virgin islands     | Tertiary       | 2005-2010 |           33.6721 |    0.105 |           11.5333 |                   56.168 |                    89.5881
+ bulgaria                   | Tertiary       | 2005-2010 |           16.8597 |   21.102 |           11.2742 |                  42.0935 |                    48.8634
+ burkina faso               | Tertiary       | 2005-2010 |           12.3886 |    1.984 |           14.0837 |                   3.1694 |                     1.4304
+ burundi                    | Tertiary       | 2005-2010 |           15.3076 |    1.051 |           16.0942 |                   3.5784 |                     1.3573
+ cabo verde                 | Tertiary       | 2005-2010 |           12.6202 |    0.485 |            8.0619 |                   7.3772 |                     7.8808
+ cameroon                   | Tertiary       | 2005-2010 |           12.6433 |   3.5035 |           34.9894 |                  8.58545 |                     6.3058
+ central african republic   | Tertiary       | 2005-2010 |           17.4819 |     0.34 |           30.6677 |                   3.5258 |                     1.5467
+ chad                       | Tertiary       | 2005-2010 |           18.7303 |    1.839 |            9.0359 |                   2.6613 |                     0.1715
+ china, macao sar           | Tertiary       | 2005-2010 |           45.6061 |    1.521 |           15.3978 |                   65.775 |                    44.2086
+ colombia                   | Tertiary       | 2005-2010 |            13.814 |   102.08 |           13.6381 |                  29.5094 |                     31.905
+ congo                      | Tertiary       | 2005-2010 |           25.9124 |     1.17 |           19.9974 |                  10.3331 |                     2.1683
+ cuba                       | Tertiary       | 2005-2010 |           23.5889 |   91.087 |            5.1803 |                  46.4015 |                     78.485
+ cyprus                     | Tertiary       | 2005-2010 |           22.8609 |    1.451 |           13.8374 |                  31.2016 |                    35.3307
+ czechia                    | Tertiary       | 2005-2010 |           21.0137 |  23.4235 |           14.4155 |                  44.8275 |                      52.03
+ el salvador                | Tertiary       | 2005-2010 |           11.1496 |   8.4815 |           15.6733 |                  21.6392 |                    24.1602
+ estonia                    | Tertiary       | 2005-2010 |           18.9484 |   6.3335 |           10.7402 |                  50.9444 |                    85.7975
+ eswatini                   | Tertiary       | 2005-2010 |           23.9405 |    0.447 |           12.9854 |                    5.188 |                    4.74125
+ finland                    | Tertiary       | 2005-2010 |           31.8102 |   18.605 |            16.447 |                  83.2615 |                    100.491
+ georgia                    | Tertiary       | 2005-2010 |           11.5767 |  20.8565 |            6.8338 |                  34.5173 |                    43.5262
+ greece                     | Tertiary       | 2005-2010 |           36.0952 |  28.0795 |           22.2976 |                  80.8205 |                     90.103
+ hungary                    | Tertiary       | 2005-2010 |           18.8909 |   25.413 |           17.1571 |                  52.9949 |                    77.4841
+ iceland                    | Tertiary       | 2005-2010 |           19.1299 |    1.782 |            8.5124 |                  48.1197 |                    92.4941
+ iran                       | Tertiary       | 2005-2010 |           15.3587 |  139.557 |            19.444 |                  23.1038 |                    24.5148
+ ireland                    | Tertiary       | 2005-2010 |           23.3009 |   11.628 |           16.0441 |                  52.5497 |                    65.3106
+ italy                      | Tertiary       | 2005-2010 |           17.2388 |   99.396 |           20.4137 |                  54.6233 |                    74.7521
+ kyrgyzstan                 | Tertiary       | 2005-2010 |           19.1824 |   13.337 |             16.53 |                   37.766 |                     47.485
+ lesotho                    | Tertiary       | 2005-2010 |           36.4137 |    0.598 |           13.7564 |                  3.11265 |                    3.82905
+ lithuania                  | Tertiary       | 2005-2010 |           20.9942 |   13.157 |           14.8518 |                  62.5167 |                    97.5386
+ madagascar                 | Tertiary       | 2005-2010 |           15.3615 |    2.987 |           20.8763 |                    3.251 |                    2.91965
+ malaysia                   | Tertiary       | 2005-2010 |           35.9443 |   45.246 |           15.3994 |                  24.0959 |                    31.8906
+ mexico                     | Tertiary       | 2005-2010 |            17.455 |  251.253 |            9.4919 |                  24.5215 |                    23.9217
+ morocco                    | Tertiary       | 2005-2010 |           20.1832 |   19.486 |           20.1779 |                  13.0786 |                     10.512
+ mozambique                 | Tertiary       | 2005-2010 |           12.1397 |    3.009 |            9.4045 |                   1.9611 |                     0.9398
+ namibia                    | Tertiary       | 2005-2010 |             9.906 |    1.204 |           16.3679 |                   7.7067 |                    8.26755
+ oman                       | Tertiary       | 2005-2010 |           17.2606 |    2.991 |           16.2096 |                  18.8398 |                    23.2524
+ philippines                | Tertiary       | 2005-2010 |           12.6187 |  112.941 |           21.2735 |                  25.1394 |                    30.9794
+ poland                     | Tertiary       | 2005-2010 |           21.7609 |   95.144 |           22.2619 |                  52.9176 |                    74.7364
+ portugal                   | Tertiary       | 2005-2010 |           18.1215 |   36.773 |           10.3592 |                   48.182 |                    62.9789
+ romania                    | Tertiary       | 2005-2010 |           23.2041 |   30.857 |           23.9429 |                   41.086 |                    51.9411
+ russian federation         | Tertiary       | 2005-2010 |           22.0849 |  647.443 |           14.1666 |                  62.7683 |                    85.5089
+ slovakia                   | Tertiary       | 2005-2010 |           21.0013 |   12.709 |           14.2748 |                  35.3507 |                    45.5645
+ slovenia                   | Tertiary       | 2005-2010 |           22.0269 |    4.475 |           25.0789 |                  65.5811 |                    93.4579
+ spain                      | Tertiary       | 2005-2010 |           22.3655 |  144.973 |           12.4806 |                  60.4647 |                    74.2248
+ sweden                     | Tertiary       | 2005-2010 |           27.5075 |   37.684 |           11.3237 |                  64.7616 |                    99.9379
+ switzerland                | Tertiary       | 2005-2010 |           25.9595 |   34.076 |            5.8603 |                  49.0533 |                    42.5048
+ tajikistan                 | Tertiary       | 2005-2010 |            7.3862 |    9.995 |           14.8954 |                  27.7885 |                    13.1766
+ thailand                   | Tertiary       | 2005-2010 |           21.6855 |   75.642 |           32.1256 |                  41.9919 |                    47.2198
+ tunisia                    | Tertiary       | 2005-2010 |           24.5693 |   16.671 |           19.6169 |                  28.4162 |                     35.151
+ ukraine                    | Tertiary       | 2005-2010 |           30.9379 |  187.402 |           13.8999 |                  63.0491 |                    77.9343
+ united kingdom             | Tertiary       | 2005-2010 |           22.2921 |  128.238 |           18.0329 |                  49.5031 |                    68.8105
+ united rep. of tanzania    | Tertiary       | 2005-2010 |           27.7278 |    2.735 |           18.8497 |                   2.0027 |                     0.9716
+ uruguay                    | Tertiary       | 2005-2010 |           21.9176 |   11.888 |            9.3106 |                  33.8543 |                    57.9104
+ venezuela                  | Tertiary       | 2005-2010 |           22.5991 |  164.903 |           12.8745 |                  59.3499 |                    100.292
+ afghanistan                | Tertiary       | 2010-2015 |            9.0322 |   11.002 |           23.8933 |                   12.634 |                      3.487
+ armenia                    | Tertiary       | 2010-2015 |           12.6383 |   15.843 |            9.2233 |                  45.7625 |                    54.0585
+ austria                    | Tertiary       | 2010-2015 |           27.7145 |   46.651 |            8.2635 |                  72.3468 |                    86.2794
+ azerbaijan                 | Tertiary       | 2010-2015 |           14.0389 |   25.806 |            7.0033 |                  20.5194 |                    21.9548
+ bangladesh                 | Tertiary       | 2010-2015 |           14.7335 |   90.428 |            22.873 |                  15.9264 |                     11.743
+ belarus                    | Tertiary       | 2010-2015 |           17.2117 |   40.555 |           14.0247 |                  72.0253 |                    99.8502
+ belgium                    | Tertiary       | 2010-2015 |           22.0061 |   28.585 |           15.5784 |                  61.7329 |                    79.3476
+ benin                      | Tertiary       | 2010-2015 |           15.6043 |   6.4125 |           17.5087 |                  21.8012 |                    7.84615
+ bermuda                    | Tertiary       | 2010-2015 |           15.8588 |    0.083 |           15.2892 |                  19.9067 |                    39.1551
+ bhutan                     | Tertiary       | 2010-2015 |           12.7196 |    0.885 |           7.24795 |                  10.5485 |                    7.47535
+ brazil                     | Tertiary       | 2010-2015 |           16.5808 |  345.335 |           18.9749 |                  42.3421 |                    57.5874
+ brunei darussalam          | Tertiary       | 2010-2015 |           28.1507 |    0.692 |            8.3468 |                  17.2982 |                    30.7348
+ bulgaria                   | Tertiary       | 2010-2015 |           15.3619 |  21.9335 |           13.0382 |                   54.988 |                    70.8369
+ burkina faso               | Tertiary       | 2010-2015 |           18.8408 |    2.889 |           17.7106 |                   5.8102 |                     2.8067
+ burundi                    | Tertiary       | 2010-2015 |            20.579 |    1.907 |           20.8202 |                   5.9885 |                    2.41955
+ cameroon                   | Tertiary       | 2010-2015 |            9.0428 |   5.4625 |           52.1533 |                  15.2983 |                    12.1298
+ canada                     | Tertiary       | 2010-2015 |           35.4944 |  207.063 |            6.9069 |                  54.2084 |                    73.5444
+ central african republic   | Tertiary       | 2010-2015 |           23.8825 |    0.384 |           34.6068 |                    4.201 |                     1.4546
+ china, macao sar           | Tertiary       | 2010-2015 |           48.4117 |    2.052 |           14.3645 |                  56.5599 |                    63.5367
+ congo                      | Tertiary       | 2010-2015 |           10.8726 |    3.169 |           12.0545 |                  11.4611 |                    7.85325
+ croatia                    | Tertiary       | 2010-2015 |           21.8553 |   15.721 |             9.532 |                  51.7136 |                    70.2066
+ cyprus                     | Tertiary       | 2010-2015 |           20.4565 |    2.553 |           12.6255 |                  47.4873 |                    54.1143
+ czechia                    | Tertiary       | 2010-2015 |           22.5344 |   16.426 |           26.0222 |                  54.2571 |                    75.9022
+ côte d’ivoire              | Tertiary       | 2010-2015 |           22.2347 |  14.8185 |            11.639 |                  10.4011 |                    5.60455
+ dem. rep. of the congo     | Tertiary       | 2010-2015 |           22.9757 |   28.877 |           15.3402 |                   9.5194 |                     4.3343
+ denmark                    | Tertiary       | 2010-2015 |           27.3289 |   28.188 |           10.6925 |                  63.8996 |                     91.391
+ djibouti                   | Tertiary       | 2010-2015 |           16.4995 |    0.201 |           19.8727 |                  5.06055 |                     3.8261
+ el salvador                | Tertiary       | 2010-2015 |           12.2358 |    9.104 |           16.4776 |                  25.6478 |                    28.2602
+ eswatini                   | Tertiary       | 2010-2015 |           14.9502 |    0.459 |           17.5534 |                   6.9505 |                     6.5638
+ ethiopia                   | Tertiary       | 2010-2015 |           43.9366 |   24.252 |           31.2211 |                   10.892 |                     5.2105
+ finland                    | Tertiary       | 2010-2015 |           31.8473 |  15.6245 |           19.5114 |                  82.5487 |                    100.168
+ gambia                     | Tertiary       | 2010-2015 |            8.6213 |    0.216 |           23.1528 |                  2.76025 |                     1.9275
+ georgia                    | Tertiary       | 2010-2015 |           19.1708 |   13.335 |            7.9262 |                   32.739 |                    42.3786
+ guinea                     | Tertiary       | 2010-2015 |           36.2372 |     5.76 |           18.7003 |                  16.5051 |                    6.11525
+ guyana                     | Tertiary       | 2010-2015 |           5.17795 |    0.714 |           11.8296 |                  7.35635 |                    15.8637
+ honduras                   | Tertiary       | 2010-2015 |           18.4895 |    8.593 |           19.7694 |                  17.4917 |                     22.006
+ hungary                    | Tertiary       | 2010-2015 |           20.1109 |   24.596 |           15.8136 |                  49.8041 |                    66.3294
+ iceland                    | Tertiary       | 2010-2015 |           21.4637 |    2.149 |           8.64215 |                  58.2739 |                    102.846
+ indonesia                  | Tertiary       | 2010-2015 |           15.5532 |  264.781 |           21.7265 |                   27.429 |                     27.565
+ iran                       | Tertiary       | 2010-2015 |           24.6794 |  230.798 |            19.052 |                  57.5496 |                    53.9323
+ ireland                    | Tertiary       | 2010-2015 |           22.2214 |   12.609 |           15.3866 |                  66.3113 |                    70.6363
+ italy                      | Tertiary       | 2010-2015 |            18.764 |  106.119 |           18.6621 |                  53.1473 |                    74.8997
+ kyrgyzstan                 | Tertiary       | 2010-2015 |           10.0763 |   17.485 |           14.9032 |                  38.2545 |                    49.8942
+ lao people's dem. rep.     | Tertiary       | 2010-2015 |           15.0165 |    5.267 |           22.4597 |                  18.9855 |                    16.0157
+ latvia                     | Tertiary       | 2010-2015 |           15.8839 |    6.924 |           16.2575 |                  54.5523 |                    86.1048
+ liberia                    | Tertiary       | 2010-2015 |           31.5635 |    1.699 |           23.0347 |                  13.5448 |                     7.8651
+ lithuania                  | Tertiary       | 2010-2015 |           23.5618 |   14.116 |           14.2656 |                  63.2729 |                    94.3674
+ madagascar                 | Tertiary       | 2010-2015 |           15.1997 |    5.249 |           17.6951 |                   4.4327 |                    4.05665
+ malawi                     | Tertiary       | 2010-2015 |            29.077 |   0.8915 |           12.6125 |                   0.9605 |                     0.5853
+ malaysia                   | Tertiary       | 2010-2015 |           32.4807 |   71.827 |           15.2003 |                  32.6305 |                     44.211
+ malta                      | Tertiary       | 2010-2015 |           22.8137 |    1.207 |            8.9809 |                  35.2534 |                    46.8192
+ mauritania                 | Tertiary       | 2010-2015 |           15.1861 |   0.4135 |           40.6534 |                   6.8196 |                    2.89895
+ mauritius                  | Tertiary       | 2010-2015 |            9.3645 |      1.1 |           30.3882 |                  32.8266 |                    40.0564
+ mexico                     | Tertiary       | 2010-2015 |           18.8943 |  309.952 |            9.1865 |                  29.6145 |                    29.0455
+ mongolia                   | Tertiary       | 2010-2015 |           11.5482 |    8.783 |           18.8739 |                  47.5832 |                    70.1708
+ mozambique                 | Tertiary       | 2010-2015 |           13.6909 |   8.3655 |           15.7364 |                  6.50025 |                    4.40255
+ myanmar                    | Tertiary       | 2010-2015 |            19.119 |   25.094 |           25.2772 |                  12.1919 |                    14.8579
+ nepal                      | Tertiary       | 2010-2015 |            12.746 |     7.95 |           60.0097 |                  18.3207 |                    13.3402
+ niger                      | Tertiary       | 2010-2015 |           12.5692 |    1.516 |            11.277 |                  2.14925 |                     0.8379
+ panama                     | Tertiary       | 2010-2015 |           22.2408 |   15.115 |            9.2038 |                  34.8164 |                    54.2673
+ poland                     | Tertiary       | 2010-2015 |           22.7744 |  101.257 |           19.2922 |                  56.8842 |                    87.0839
+ portugal                   | Tertiary       | 2010-2015 |           20.1541 |   36.215 |            10.593 |                  60.4838 |                    70.7256
+ puerto rico                | Tertiary       | 2010-2015 |           36.7786 |    16.19 |           15.4028 |                  74.6493 |                    108.518
+ republic of moldova        | Tertiary       | 2010-2015 |           17.5855 |    7.735 |           16.8284 |                   34.325 |                    45.5056
+ romania                    | Tertiary       | 2010-2015 |           28.4749 |   31.103 |           32.1359 |                  43.9676 |                    55.8526
+ russian federation         | Tertiary       | 2010-2015 |           21.8959 |  553.843 |            14.414 |                  71.4833 |                     85.778
+ rwanda                     | Tertiary       | 2010-2015 |           22.7497 |    2.829 |           22.1753 |                  7.35965 |                    5.96755
+ saint lucia                | Tertiary       | 2010-2015 |           4.80345 |    0.213 |            9.2629 |                   8.7904 |                    20.0457
+ sao tome and principe      | Tertiary       | 2010-2015 |            9.6006 |    0.095 |            8.0632 |                   7.3877 |                    6.66095
+ serbia                     | Tertiary       | 2010-2015 |           29.0818 |   14.812 |             15.31 |                  46.6737 |                    60.8195
+ slovakia                   | Tertiary       | 2010-2015 |            19.626 |   13.333 |           17.5899 |                  43.3081 |                    66.9443
+ slovenia                   | Tertiary       | 2010-2015 |           24.0466 |    6.947 |           16.5356 |                  69.8803 |                    102.658
+ spain                      | Tertiary       | 2010-2015 |           23.4333 |  155.239 |           12.1037 |                  72.9434 |                    88.8279
+ sweden                     | Tertiary       | 2010-2015 |            29.022 |   29.173 |           15.5975 |                  53.8729 |                    82.6608
+ switzerland                | Tertiary       | 2010-2015 |           25.3071 |   36.258 |           7.55385 |                  55.9358 |                    56.6155
+ tajikistan                 | Tertiary       | 2010-2015 |           10.0754 |   13.183 |            14.674 |                   29.933 |                    16.4407
+ thailand                   | Tertiary       | 2010-2015 |           16.0315 |  103.603 |           23.4852 |                  43.5058 |                    57.1689
+ togo                       | Tertiary       | 2010-2015 |           16.7314 |    2.346 |           27.0656 |                  14.7624 |                     6.1473
+ tunisia                    | Tertiary       | 2010-2015 |           28.1733 |   21.552 |           16.7933 |                  26.8189 |                    43.8218
+ turkmenistan               | Tertiary       | 2010-2015 |            9.2281 |    8.159 |            5.4432 |                   9.7037 |                     6.1958
+ uganda                     | Tertiary       | 2010-2015 |           14.7978 |    5.532 |           23.5333 |                  5.14515 |                     3.7931
+ ukraine                    | Tertiary       | 2010-2015 |           31.5181 |  201.296 |           13.0902 |                   74.044 |                    89.1752
+ united kingdom             | Tertiary       | 2010-2015 |           16.3947 |   145.96 |            16.594 |                  49.7267 |                    66.0146
+ united rep. of tanzania    | Tertiary       | 2010-2015 |            24.848 |    4.658 |           26.6882 |                  3.56035 |                     2.2606
+ viet nam                   | Tertiary       | 2010-2015 |           14.7448 |   69.581 |           29.0369 |                   26.271 |                    27.2898
+ zimbabwe                   | Tertiary       | 2010-2015 |           19.8235 |    4.809 |           20.0904 |                   7.8302 |                    5.90685
+(459 rows)
+
+          country           | year | percentage 
+----------------------------+------+------------
+ afghanistan                | 2010 |     3.4795
+ afghanistan                | 2015 |     3.2558
+ afghanistan                | 2017 |     4.0589
+ albania                    | 2005 |     3.2816
+ albania                    | 2007 |     3.2759
+ albania                    | 2015 |      3.438
+ albania                    | 2017 |     3.6103
+ albania                    | 2018 |     2.4687
+ algeria                    | 2008 |      4.337
+ american samoa             | 2006 |    14.6293
+ andorra                    | 2005 |     1.5965
+ andorra                    | 2010 |     3.0574
+ andorra                    | 2013 |     2.4381
+ andorra                    | 2015 |     3.2537
+ andorra                    | 2018 |     3.2269
+ angola                     | 2005 |     2.1201
+ angola                     | 2006 |     2.2815
+ angola                     | 2010 |     3.4213
+ anguilla                   | 2005 |     2.9545
+ anguilla                   | 2008 |     2.8426
+ antigua and barbuda        | 2002 |     3.3943
+ antigua and barbuda        | 2009 |     2.5172
+ argentina                  | 2004 |     3.4865
+ argentina                  | 2005 |       3.86
+ argentina                  | 2010 |     5.0197
+ argentina                  | 2015 |     5.7761
+ argentina                  | 2017 |     5.4622
+ armenia                    | 2005 |      2.712
+ armenia                    | 2009 |     3.8408
+ armenia                    | 2010 |      3.249
+ armenia                    | 2014 |     2.2472
+ armenia                    | 2015 |     2.8059
+ armenia                    | 2017 |     2.7076
+ aruba                      | 2005 |     4.6813
+ aruba                      | 2009 |     5.9248
+ aruba                      | 2010 |     6.9293
+ aruba                      | 2015 |     6.4818
+ aruba                      | 2016 |     6.1899
+ australia                  | 2000 |     4.8915
+ australia                  | 2005 |     4.9103
+ australia                  | 2010 |     5.5501
+ australia                  | 2015 |      5.312
+ australia                  | 2016 |     5.2716
+ austria                    | 2005 |     5.2494
+ austria                    | 2010 |     5.7005
+ austria                    | 2015 |     5.4568
+ austria                    | 2016 |     5.5007
+ azerbaijan                 | 2005 |     2.9746
+ azerbaijan                 | 2010 |     2.7806
+ azerbaijan                 | 2015 |     2.9517
+ azerbaijan                 | 2017 |     2.4738
+ bahamas                    | 2000 |     2.2328
+ bahrain                    | 2008 |     2.4968
+ bahrain                    | 2012 |     2.6453
+ bahrain                    | 2013 |     2.4769
+ bahrain                    | 2015 |     2.6681
+ bahrain                    | 2017 |     2.3272
+ bangladesh                 | 2004 |     1.9401
+ bangladesh                 | 2009 |     1.9394
+ bangladesh                 | 2012 |     2.1755
+ bangladesh                 | 2013 |     1.9662
+ bangladesh                 | 2016 |     1.5355
+ bangladesh                 | 2018 |      1.986
+ barbados                   | 2005 |      5.557
+ barbados                   | 2008 |     4.9245
+ barbados                   | 2010 |     6.0349
+ barbados                   | 2014 |     6.2294
+ barbados                   | 2016 |     5.0927
+ barbados                   | 2017 |     4.6565
+ belarus                    | 2005 |      5.871
+ belarus                    | 2010 |     5.0917
+ belarus                    | 2011 |     4.6848
+ belarus                    | 2015 |     4.7875
+ belarus                    | 2017 |      4.795
+ belgium                    | 2005 |      5.769
+ belgium                    | 2010 |      6.408
+ belgium                    | 2013 |     6.6397
+ belgium                    | 2015 |     6.5394
+ belgium                    | 2016 |     6.5451
+ belize                     | 2003 |     5.2068
+ belize                     | 2004 |     5.2993
+ belize                     | 2010 |     6.6296
+ belize                     | 2015 |     6.7662
+ belize                     | 2017 |     7.3788
+ benin                      | 2001 |     3.2324
+ benin                      | 2005 |     3.6308
+ benin                      | 2010 |     5.0293
+ benin                      | 2015 |     4.3564
+ benin                      | 2018 |     4.0381
+ bermuda                    | 2005 |     1.9888
+ bermuda                    | 2010 |     2.5852
+ bermuda                    | 2014 |     1.7596
+ bermuda                    | 2015 |     1.6986
+ bermuda                    | 2017 |     1.5004
+ bhutan                     | 2005 |     7.0781
+ bhutan                     | 2010 |     4.0245
+ bhutan                     | 2014 |     5.9033
+ bhutan                     | 2015 |     7.3219
+ bhutan                     | 2018 |     6.6404
+ botswana                   | 2005 |    10.6786
+ botswana                   | 2009 |     9.6329
+ brazil                     | 2005 |     4.4791
+ brazil                     | 2010 |     5.6488
+ brazil                     | 2011 |     5.7374
+ brazil                     | 2015 |     6.2411
+ british virgin islands     | 2005 |     3.0463
+ british virgin islands     | 2007 |     3.1519
+ british virgin islands     | 2010 |      3.817
+ british virgin islands     | 2015 |     5.1348
+ british virgin islands     | 2017 |      2.359
+ brunei darussalam          | 2000 |     3.7059
+ brunei darussalam          | 2010 |     2.0466
+ brunei darussalam          | 2014 |     3.3532
+ brunei darussalam          | 2016 |     4.4254
+ bulgaria                   | 2005 |     4.1411
+ bulgaria                   | 2010 |     3.8635
+ bulgaria                   | 2013 |     4.0769
+ burkina faso               | 2005 |     4.4326
+ burkina faso               | 2007 |     4.5886
+ burkina faso               | 2010 |      3.939
+ burkina faso               | 2015 |     4.1661
+ burkina faso               | 2018 |     6.0361
+ burundi                    | 2004 |      3.745
+ burundi                    | 2005 |     3.6322
+ burundi                    | 2010 |     6.7753
+ burundi                    | 2012 |     6.1679
+ burundi                    | 2013 |     5.9954
+ burundi                    | 2015 |     6.3705
+ burundi                    | 2018 |     5.0108
+ cabo verde                 | 2002 |     7.8768
+ cabo verde                 | 2004 |     7.4766
+ cabo verde                 | 2008 |      5.518
+ cabo verde                 | 2009 |      5.309
+ cabo verde                 | 2010 |     5.5673
+ cabo verde                 | 2015 |     5.2669
+ cabo verde                 | 2016 |     5.2888
+ cabo verde                 | 2017 |     5.1732
+ cambodia                   | 2001 |     1.7222
+ cambodia                   | 2002 |     1.7112
+ cambodia                   | 2004 |     1.7198
+ cambodia                   | 2010 |     1.5338
+ cambodia                   | 2012 |     1.5609
+ cambodia                   | 2013 |     2.0505
+ cambodia                   | 2014 |     1.9094
+ cambodia                   | 2018 |     2.1629
+ cameroon                   | 2005 |     2.8872
+ cameroon                   | 2010 |     2.9937
+ cameroon                   | 2012 |     2.6972
+ cameroon                   | 2013 |      2.768
+ cameroon                   | 2015 |     2.7681
+ cameroon                   | 2018 |     3.1453
+ canada                     | 2000 |      5.442
+ canada                     | 2005 |     4.7822
+ canada                     | 2010 |     5.3699
+ canada                     | 2011 |     5.2744
+ cayman islands             | 2005 |     2.3462
+ cayman islands             | 2006 |     2.6074
+ central african republic   | 2005 |     1.6522
+ central african republic   | 2008 |       1.29
+ central african republic   | 2010 |     1.1176
+ central african republic   | 2011 |     1.1079
+ chad                       | 2005 |     1.6948
+ chad                       | 2010 |     1.9819
+ chad                       | 2011 |     2.2579
+ chad                       | 2012 |     2.2062
+ chad                       | 2013 |     2.8507
+ chad                       | 2018 |     2.2419
+ chile                      | 2005 |     3.2628
+ chile                      | 2009 |     4.2307
+ chile                      | 2010 |     4.1621
+ chile                      | 2015 |     4.8753
+ chile                      | 2017 |     5.4027
+ china, hong kong sar       | 2005 |     4.1346
+ china, hong kong sar       | 2010 |       3.51
+ china, hong kong sar       | 2012 |     3.5096
+ china, hong kong sar       | 2015 |     3.2621
+ china, hong kong sar       | 2018 |     3.3226
+ china, macao sar           | 2000 |     3.3409
+ china, macao sar           | 2003 |     2.7976
+ china, macao sar           | 2005 |     2.2907
+ china, macao sar           | 2010 |     2.6295
+ china, macao sar           | 2015 |     2.9817
+ china, macao sar           | 2017 |     2.7001
+ colombia                   | 2004 |     4.0794
+ colombia                   | 2005 |     4.0331
+ colombia                   | 2010 |     4.8416
+ colombia                   | 2015 |     4.4704
+ colombia                   | 2018 |     4.5026
+ comoros                    | 2002 |     2.2584
+ comoros                    | 2008 |     4.4227
+ comoros                    | 2015 |     2.4871
+ congo                      | 2005 |     1.8358
+ congo                      | 2010 |     6.2208
+ congo                      | 2015 |     4.5615
+ congo                      | 2018 |     3.6364
+ cook islands               | 2000 |     2.0706
+ cook islands               | 2013 |     2.9624
+ cook islands               | 2014 |     3.9285
+ cook islands               | 2015 |     3.8789
+ cook islands               | 2016 |     4.6868
+ costa rica                 | 2004 |     4.9122
+ costa rica                 | 2010 |     6.6345
+ costa rica                 | 2015 |     7.0825
+ costa rica                 | 2018 |     7.0282
+ côte d’ivoire              | 2000 |     3.7037
+ côte d’ivoire              | 2001 |     3.6687
+ côte d’ivoire              | 2005 |     4.1058
+ côte d’ivoire              | 2010 |     4.5535
+ côte d’ivoire              | 2015 |     4.8299
+ côte d’ivoire              | 2018 |     4.3682
+ croatia                    | 2004 |     3.8256
+ croatia                    | 2010 |     4.2379
+ croatia                    | 2011 |     4.1471
+ croatia                    | 2013 |      4.557
+ cuba                       | 2005 |    10.5578
+ cuba                       | 2007 |    11.8682
+ cuba                       | 2010 |    12.8373
+ curaçao                    | 2013 |      4.931
+ cyprus                     | 2005 |     6.2867
+ cyprus                     | 2010 |     6.5803
+ cyprus                     | 2015 |     6.3753
+ cyprus                     | 2016 |     6.2914
+ czechia                    | 2005 |     3.8904
+ czechia                    | 2010 |     4.0645
+ czechia                    | 2015 |     5.7889
+ czechia                    | 2016 |     5.5874
+ dem. rep. of the congo     | 2010 |      1.525
+ dem. rep. of the congo     | 2013 |     2.0622
+ dem. rep. of the congo     | 2015 |     2.1704
+ dem. rep. of the congo     | 2017 |      1.455
+ denmark                    | 2005 |     8.0856
+ denmark                    | 2010 |     8.5596
+ denmark                    | 2013 |     8.4944
+ denmark                    | 2014 |     7.6349
+ djibouti                   | 2005 |     8.3659
+ djibouti                   | 2007 |     8.4063
+ djibouti                   | 2010 |     4.4902
+ djibouti                   | 2015 |     5.3407
+ djibouti                   | 2016 |     5.7913
+ djibouti                   | 2018 |     5.5594
+ dominica                   | 2015 |     3.3869
+ dominican republic         | 2002 |      1.914
+ dominican republic         | 2003 |     1.8447
+ dominican republic         | 2007 |     2.0468
+ ecuador                    | 2000 |     1.1509
+ ecuador                    | 2010 |     4.5074
+ ecuador                    | 2015 |     4.9987
+ egypt                      | 2005 |     4.7944
+ egypt                      | 2008 |     3.7608
+ el salvador                | 2005 |     3.1779
+ el salvador                | 2008 |     4.4581
+ el salvador                | 2010 |     4.0481
+ el salvador                | 2015 |     3.9099
+ el salvador                | 2016 |     3.8312
+ el salvador                | 2017 |     3.7329
+ el salvador                | 2018 |     3.6008
+ eritrea                    | 2002 |     3.5239
+ eritrea                    | 2004 |      3.149
+ eritrea                    | 2006 |      2.127
+ estonia                    | 2002 |     5.4687
+ estonia                    | 2004 |     4.9118
+ estonia                    | 2005 |     4.8449
+ estonia                    | 2010 |      5.527
+ estonia                    | 2013 |     4.8384
+ estonia                    | 2015 |      5.139
+ estonia                    | 2016 |     5.1732
+ eswatini                   | 2005 |     6.4846
+ eswatini                   | 2010 |     6.1184
+ eswatini                   | 2014 |     7.1277
+ ethiopia                   | 2002 |     3.6325
+ ethiopia                   | 2010 |     4.4966
+ ethiopia                   | 2015 |     4.7379
+ fiji                       | 2004 |     6.1649
+ fiji                       | 2005 |      5.122
+ fiji                       | 2009 |     4.4985
+ fiji                       | 2011 |     4.1731
+ fiji                       | 2013 |     3.8829
+ finland                    | 2005 |     6.0361
+ finland                    | 2010 |     6.5407
+ finland                    | 2015 |     7.0801
+ finland                    | 2016 |     6.8974
+ gabon                      | 2000 |     3.8271
+ gabon                      | 2010 |     3.0781
+ gabon                      | 2014 |     2.6667
+ gambia                     | 2005 |     1.1392
+ gambia                     | 2010 |     4.1561
+ gambia                     | 2012 |     4.1012
+ gambia                     | 2015 |     2.1353
+ gambia                     | 2018 |     2.4328
+ georgia                    | 2005 |     2.4843
+ georgia                    | 2008 |     2.9196
+ georgia                    | 2009 |     3.2224
+ georgia                    | 2012 |     1.9833
+ georgia                    | 2017 |     3.8497
+ germany                    | 2010 |     4.9137
+ germany                    | 2015 |     4.8052
+ germany                    | 2016 |     4.8009
+ ghana                      | 2005 |     7.4221
+ ghana                      | 2010 |     5.5406
+ ghana                      | 2014 |     4.4918
+ ghana                      | 2015 |     4.5109
+ ghana                      | 2018 |     3.9894
+ greece                     | 2005 |      3.964
+ grenada                    | 2003 |     3.9267
+ grenada                    | 2017 |     3.1704
+ guatemala                  | 2008 |     3.1845
+ guatemala                  | 2010 |     2.8031
+ guatemala                  | 2015 |     2.9552
+ guatemala                  | 2018 |     2.9271
+ guinea                     | 2005 |     1.8491
+ guinea                     | 2010 |     2.5512
+ guinea                     | 2015 |     2.5171
+ guinea                     | 2018 |     2.5725
+ guinea-bissau              | 2010 |     1.8608
+ guinea-bissau              | 2013 |     2.1325
+ guyana                     | 2004 |     5.5129
+ guyana                     | 2005 |     8.1397
+ guyana                     | 2010 |     3.6386
+ guyana                     | 2012 |     3.1824
+ guyana                     | 2015 |     5.2148
+ guyana                     | 2018 |     5.8884
+ haiti                      | 2015 |     3.1572
+ haiti                      | 2018 |     2.7805
+ honduras                   | 2013 |     5.8749
+ honduras                   | 2015 |      6.413
+ honduras                   | 2018 |     6.0812
+ hungary                    | 2005 |     5.3284
+ hungary                    | 2010 |      4.769
+ hungary                    | 2015 |     4.5721
+ hungary                    | 2016 |     4.7108
+ iceland                    | 2005 |     7.3561
+ iceland                    | 2010 |     6.9785
+ iceland                    | 2015 |     7.5324
+ iceland                    | 2016 |     7.4599
+ india                      | 2005 |     3.1888
+ india                      | 2010 |     3.3777
+ india                      | 2013 |     3.8447
+ indonesia                  | 2005 |     2.8728
+ indonesia                  | 2010 |     2.8123
+ indonesia                  | 2014 |      3.288
+ indonesia                  | 2015 |     3.5836
+ iran                       | 2002 |     4.4849
+ iran                       | 2005 |     4.0565
+ iran                       | 2010 |     3.7092
+ iran                       | 2014 |     2.8014
+ iran                       | 2015 |     2.7974
+ iran                       | 2018 |     3.9554
+ ireland                    | 2005 |     4.5222
+ ireland                    | 2010 |      6.038
+ ireland                    | 2015 |     3.7583
+ ireland                    | 2016 |     3.7197
+ israel                     | 2005 |     5.7645
+ israel                     | 2010 |     5.5416
+ israel                     | 2015 |     5.8545
+ israel                     | 2016 |     5.8493
+ italy                      | 2005 |     4.2494
+ italy                      | 2010 |     4.3524
+ italy                      | 2015 |     4.0817
+ italy                      | 2016 |     3.8293
+ jamaica                    | 2004 |     3.9126
+ jamaica                    | 2005 |     4.6164
+ jamaica                    | 2008 |     6.1913
+ jamaica                    | 2009 |     6.1985
+ jamaica                    | 2010 |     6.3706
+ jamaica                    | 2015 |     5.4558
+ jamaica                    | 2018 |     5.4073
+ japan                      | 2014 |     3.5906
+ japan                      | 2016 |     3.1862
+ jordan                     | 2018 |     3.5885
+ kazakhstan                 | 2005 |     2.2635
+ kazakhstan                 | 2009 |     3.0607
+ kazakhstan                 | 2015 |     2.7886
+ kazakhstan                 | 2016 |     2.9781
+ kazakhstan                 | 2018 |      2.751
+ kenya                      | 2004 |     6.7969
+ kenya                      | 2005 |     7.3357
+ kenya                      | 2006 |     7.0498
+ kenya                      | 2010 |     5.5082
+ kenya                      | 2015 |     5.2713
+ kenya                      | 2018 |     5.3202
+ kiribati                   | 2001 |    11.9881
+ kuwait                     | 2005 |     4.7383
+ kuwait                     | 2006 |       3.76
+ kyrgyzstan                 | 2005 |     4.8738
+ kyrgyzstan                 | 2010 |     5.8188
+ kyrgyzstan                 | 2014 |     5.5316
+ kyrgyzstan                 | 2015 |     5.9855
+ kyrgyzstan                 | 2017 |     6.0262
+ lao people's dem. rep.     | 2002 |     2.8252
+ lao people's dem. rep.     | 2005 |     2.4141
+ lao people's dem. rep.     | 2010 |     1.7098
+ lao people's dem. rep.     | 2014 |     2.9378
+ latvia                     | 2004 |     4.8551
+ latvia                     | 2010 |      5.081
+ latvia                     | 2015 |     5.3372
+ latvia                     | 2016 |     4.7196
+ lebanon                    | 2005 |     2.6471
+ lebanon                    | 2010 |     1.6143
+ lebanon                    | 2011 |     1.6464
+ lebanon                    | 2013 |     2.4347
+ lesotho                    | 2001 |     9.3651
+ lesotho                    | 2005 |    12.0797
+ lesotho                    | 2008 |    12.0835
+ lesotho                    | 2018 |     6.5117
+ liberia                    | 2008 |     1.7017
+ liberia                    | 2012 |     1.7771
+ liberia                    | 2014 |     2.2791
+ liberia                    | 2018 |     2.5841
+ liechtenstein              | 2004 |     2.4333
+ liechtenstein              | 2007 |     1.9212
+ liechtenstein              | 2008 |     2.0484
+ liechtenstein              | 2011 |      2.556
+ lithuania                  | 2005 |     4.8732
+ lithuania                  | 2010 |      5.299
+ lithuania                  | 2015 |     4.2172
+ lithuania                  | 2016 |     4.0085
+ luxembourg                 | 2001 |     3.5558
+ luxembourg                 | 2015 |     3.9552
+ madagascar                 | 2005 |     3.8482
+ madagascar                 | 2008 |     2.9104
+ madagascar                 | 2009 |     3.1775
+ madagascar                 | 2012 |     2.7322
+ madagascar                 | 2013 |     2.0823
+ madagascar                 | 2015 |     2.5682
+ madagascar                 | 2018 |     3.2348
+ malawi                     | 2001 |      4.509
+ malawi                     | 2003 |     3.2157
+ malawi                     | 2010 |     3.5398
+ malawi                     | 2013 |     5.4162
+ malawi                     | 2015 |     5.6087
+ malawi                     | 2016 |     4.7486
+ malawi                     | 2018 |     4.7148
+ malaysia                   | 2004 |     5.9239
+ malaysia                   | 2009 |     5.9742
+ malaysia                   | 2010 |     4.9665
+ malaysia                   | 2013 |     5.4812
+ malaysia                   | 2015 |     4.9727
+ malaysia                   | 2018 |     4.5348
+ maldives                   | 2005 |     5.0168
+ maldives                   | 2010 |     4.1175
+ maldives                   | 2015 |     4.3666
+ maldives                   | 2016 |     4.0673
+ mali                       | 2005 |     3.5222
+ mali                       | 2010 |     3.3439
+ mali                       | 2015 |     3.8015
+ mali                       | 2016 |      3.096
+ mali                       | 2017 |     3.7868
+ malta                      | 2004 |     4.4608
+ malta                      | 2010 |     6.4549
+ malta                      | 2015 |     5.2046
+ marshall islands           | 2002 |     8.6699
+ marshall islands           | 2003 |      12.24
+ mauritania                 | 2004 |     2.5169
+ mauritania                 | 2010 |     3.6043
+ mauritania                 | 2013 |     2.9374
+ mauritania                 | 2016 |     2.6311
+ mauritius                  | 2005 |     4.0782
+ mauritius                  | 2010 |     3.5515
+ mauritius                  | 2015 |     4.8867
+ mauritius                  | 2018 |     4.8346
+ mexico                     | 2005 |     4.8457
+ mexico                     | 2010 |     5.1592
+ mexico                     | 2011 |     5.1057
+ mexico                     | 2015 |     5.2352
+ mexico                     | 2016 |     4.9098
+ micronesia                 | 2000 |     6.7082
+ micronesia                 | 2015 |    12.4595
+ monaco                     | 2004 |     1.2439
+ monaco                     | 2010 |     1.3174
+ monaco                     | 2014 |      1.022
+ monaco                     | 2016 |      1.371
+ monaco                     | 2017 |     1.4612
+ mongolia                   | 2000 |     5.5504
+ mongolia                   | 2002 |     7.2108
+ mongolia                   | 2004 |     4.3257
+ mongolia                   | 2010 |     4.6451
+ mongolia                   | 2013 |     4.9408
+ mongolia                   | 2015 |      4.177
+ mongolia                   | 2017 |     4.0858
+ montserrat                 | 2001 |     4.7891
+ montserrat                 | 2004 |     3.8438
+ montserrat                 | 2009 |     5.1275
+ montserrat                 | 2018 |     8.3223
+ morocco                    | 2008 |     5.3422
+ morocco                    | 2009 |     5.2606
+ mozambique                 | 2005 |     4.4301
+ mozambique                 | 2006 |     4.2743
+ mozambique                 | 2013 |     6.4801
+ mozambique                 | 2018 |     5.5985
+ myanmar                    | 2011 |     0.7874
+ myanmar                    | 2017 |     2.1646
+ myanmar                    | 2018 |     1.9726
+ namibia                    | 2000 |     6.9914
+ namibia                    | 2003 |     6.2749
+ namibia                    | 2008 |      6.484
+ namibia                    | 2010 |     8.3496
+ namibia                    | 2014 |     3.1032
+ nepal                      | 2003 |     3.1144
+ nepal                      | 2005 |     3.3646
+ nepal                      | 2010 |     3.6317
+ nepal                      | 2015 |     3.7036
+ nepal                      | 2018 |     5.1637
+ netherlands                | 2005 |     5.1094
+ netherlands                | 2010 |     5.4891
+ netherlands                | 2015 |     5.3482
+ netherlands                | 2016 |     5.4796
+ new zealand                | 2005 |      6.279
+ new zealand                | 2010 |     7.0024
+ new zealand                | 2015 |     6.3402
+ new zealand                | 2016 |     6.4428
+ nicaragua                  | 2002 |      2.391
+ nicaragua                  | 2003 |      2.422
+ nicaragua                  | 2010 |     4.4842
+ nicaragua                  | 2015 |     4.0784
+ nicaragua                  | 2016 |     4.0812
+ nicaragua                  | 2017 |     4.3395
+ niger                      | 2003 |     2.4016
+ niger                      | 2010 |     3.7333
+ niger                      | 2015 |     6.0173
+ niger                      | 2017 |     3.5427
+ niger                      | 2018 |     4.9198
+ north macedonia            | 2002 |     3.3002
+ norway                     | 2005 |     6.8687
+ norway                     | 2010 |     6.7405
+ norway                     | 2015 |     7.5525
+ norway                     | 2016 |     7.9761
+ oman                       | 2002 |     4.3251
+ oman                       | 2005 |     3.5172
+ oman                       | 2009 |     4.1878
+ oman                       | 2013 |     4.9701
+ pakistan                   | 2005 |     2.2544
+ pakistan                   | 2007 |     2.6353
+ pakistan                   | 2010 |     2.2869
+ pakistan                   | 2013 |     2.4934
+ pakistan                   | 2015 |       2.65
+ pakistan                   | 2017 |     2.8995
+ palau                      | 2001 |     7.7805
+ palau                      | 2002 |     7.5793
+ panama                     | 2002 |     4.1916
+ panama                     | 2004 |     3.5787
+ panama                     | 2008 |     3.5023
+ panama                     | 2011 |      3.159
+ papua new guinea           | 2018 |     1.9264
+ paraguay                   | 2004 |     2.8699
+ paraguay                   | 2010 |     2.7729
+ paraguay                   | 2012 |     3.6675
+ paraguay                   | 2016 |     3.4383
+ peru                       | 2005 |      2.839
+ peru                       | 2010 |     2.8673
+ peru                       | 2015 |     3.9703
+ peru                       | 2018 |     3.7199
+ philippines                | 2005 |     2.4263
+ philippines                | 2009 |      2.653
+ poland                     | 2005 |     5.4261
+ poland                     | 2010 |     5.0684
+ poland                     | 2015 |     4.8123
+ poland                     | 2016 |     4.6393
+ portugal                   | 2005 |     5.0708
+ portugal                   | 2010 |     5.4029
+ portugal                   | 2015 |     4.8829
+ puerto rico                | 2014 |     6.0727
+ qatar                      | 2005 |     3.9719
+ qatar                      | 2009 |     3.4132
+ qatar                      | 2010 |     4.5397
+ qatar                      | 2014 |     3.6054
+ qatar                      | 2017 |     2.8638
+ republic of korea          | 2016 |     4.5944
+ republic of moldova        | 2005 |     7.1627
+ republic of moldova        | 2010 |     7.5923
+ republic of moldova        | 2014 |      6.266
+ republic of moldova        | 2018 |     5.5111
+ romania                    | 2005 |     3.5004
+ romania                    | 2010 |     3.4954
+ romania                    | 2015 |     3.1068
+ romania                    | 2016 |     2.9741
+ russian federation         | 2005 |     3.7719
+ russian federation         | 2008 |     4.1018
+ russian federation         | 2013 |     3.7562
+ russian federation         | 2015 |     3.8337
+ russian federation         | 2016 |      3.743
+ rwanda                     | 2000 |     3.9168
+ rwanda                     | 2001 |     5.4245
+ rwanda                     | 2010 |     4.8911
+ rwanda                     | 2015 |     3.7515
+ rwanda                     | 2016 |     3.5398
+ rwanda                     | 2018 |     3.1133
+ saint kitts and nevis      | 2005 |      3.629
+ saint kitts and nevis      | 2007 |     3.9931
+ saint kitts and nevis      | 2015 |     2.6063
+ saint lucia                | 2004 |      3.841
+ saint lucia                | 2005 |     4.7381
+ saint lucia                | 2006 |     5.2504
+ saint lucia                | 2010 |     3.8173
+ saint lucia                | 2011 |     3.8128
+ saint lucia                | 2015 |     4.4012
+ saint lucia                | 2018 |     3.6796
+ saint vincent & grenadines | 2005 |     6.3508
+ saint vincent & grenadines | 2010 |     5.0852
+ saint vincent & grenadines | 2018 |     5.6812
+ samoa                      | 2001 |     3.8263
+ samoa                      | 2002 |     3.8414
+ samoa                      | 2008 |     5.1442
+ samoa                      | 2016 |     4.0805
+ san marino                 | 2010 |     2.3098
+ san marino                 | 2011 |     2.3829
+ san marino                 | 2017 |      3.147
+ sao tome and principe      | 2005 |     4.8565
+ sao tome and principe      | 2010 |     9.6515
+ sao tome and principe      | 2014 |     3.7488
+ sao tome and principe      | 2015 |     3.8645
+ sao tome and principe      | 2018 |     5.1491
+ saudi arabia               | 2005 |     5.4309
+ saudi arabia               | 2008 |     5.1378
+ senegal                    | 2005 |     4.0577
+ senegal                    | 2010 |     5.1825
+ senegal                    | 2015 |     5.4564
+ senegal                    | 2016 |     5.1131
+ senegal                    | 2018 |      4.652
+ serbia                     | 2010 |     4.3278
+ serbia                     | 2015 |      3.789
+ serbia                     | 2017 |     3.7151
+ seychelles                 | 2002 |     5.1933
+ seychelles                 | 2003 |     5.3749
+ seychelles                 | 2006 |     4.7701
+ seychelles                 | 2014 |     4.0837
+ seychelles                 | 2016 |     4.4183
+ sierra leone               | 2005 |      2.797
+ sierra leone               | 2010 |     2.5886
+ sierra leone               | 2011 |     2.6689
+ sierra leone               | 2014 |     2.6629
+ sierra leone               | 2018 |     7.1385
+ singapore                  | 2005 |      3.196
+ singapore                  | 2010 |     3.0804
+ singapore                  | 2013 |     2.8544
+ slovakia                   | 2005 |     3.7652
+ slovakia                   | 2010 |     4.1159
+ slovakia                   | 2015 |     4.6356
+ slovakia                   | 2016 |     3.9027
+ slovenia                   | 2003 |     5.6913
+ slovenia                   | 2005 |     5.5824
+ slovenia                   | 2010 |     5.5625
+ slovenia                   | 2015 |     4.9082
+ slovenia                   | 2016 |     4.8029
+ solomon islands            | 2010 |     9.8606
+ south africa               | 2005 |     5.0632
+ south africa               | 2006 |     5.0726
+ south africa               | 2009 |     5.2487
+ south africa               | 2010 |     5.7217
+ south africa               | 2014 |     6.0466
+ south africa               | 2015 |     5.9562
+ south africa               | 2018 |      6.159
+ south sudan                | 2014 |      1.713
+ south sudan                | 2015 |     1.5406
+ south sudan                | 2016 |     1.4969
+ south sudan                | 2017 |      0.981
+ spain                      | 2005 |       4.13
+ spain                      | 2010 |     4.8191
+ spain                      | 2015 |     4.2724
+ spain                      | 2016 |     4.2091
+ sri lanka                  | 2010 |     1.7177
+ sri lanka                  | 2015 |     2.2288
+ sri lanka                  | 2018 |     2.1119
+ state of palestine         | 2010 |     6.7255
+ state of palestine         | 2015 |     5.1414
+ state of palestine         | 2017 |     5.2523
+ sudan                      | 2005 |     1.5631
+ sudan                      | 2009 |     2.2187
+ sweden                     | 2005 |      6.552
+ sweden                     | 2010 |     6.6148
+ sweden                     | 2015 |     7.5483
+ sweden                     | 2016 |     7.6699
+ switzerland                | 2005 |     5.2041
+ switzerland                | 2010 |     4.9261
+ switzerland                | 2015 |     5.1006
+ switzerland                | 2016 |     5.1133
+ syrian arab republic       | 2002 |       5.24
+ syrian arab republic       | 2004 |     5.3715
+ syrian arab republic       | 2009 |     5.1301
+ tajikistan                 | 2005 |     3.5121
+ tajikistan                 | 2010 |     4.0068
+ tajikistan                 | 2015 |     5.2314
+ thailand                   | 2004 |     4.0309
+ thailand                   | 2005 |     3.9386
+ thailand                   | 2010 |     3.5084
+ thailand                   | 2013 |      4.124
+ timor-leste                | 2010 |     2.4494
+ timor-leste                | 2014 |     2.6913
+ timor-leste                | 2015 |     4.3539
+ timor-leste                | 2018 |     4.1284
+ togo                       | 2000 |     3.9209
+ togo                       | 2005 |     3.1598
+ togo                       | 2010 |     4.0965
+ togo                       | 2015 |     5.1086
+ togo                       | 2016 |     5.0331
+ togo                       | 2017 |     5.0339
+ togo                       | 2018 |     5.4289
+ tonga                      | 2004 |      3.908
+ trinidad and tobago        | 2003 |     3.1366
+ tunisia                    | 2000 |      6.202
+ tunisia                    | 2002 |       5.79
+ tunisia                    | 2005 |     6.4516
+ tunisia                    | 2008 |     6.2722
+ tunisia                    | 2010 |     6.2548
+ tunisia                    | 2015 |     6.5992
+ turkey                     | 2004 |     3.0202
+ turkey                     | 2006 |     2.7506
+ turkmenistan               | 2012 |     3.0493
+ turks and caicos islands   | 2002 |     5.0691
+ turks and caicos islands   | 2003 |     4.7288
+ turks and caicos islands   | 2005 |      2.541
+ turks and caicos islands   | 2015 |     3.1575
+ turks and caicos islands   | 2018 |     2.9144
+ uganda                     | 2004 |     4.9524
+ uganda                     | 2010 |      2.389
+ uganda                     | 2014 |     2.2507
+ uganda                     | 2015 |     2.7738
+ uganda                     | 2018 |     2.5208
+ ukraine                    | 2000 |     4.1662
+ ukraine                    | 2005 |     6.0644
+ ukraine                    | 2009 |      7.318
+ ukraine                    | 2014 |     5.8749
+ ukraine                    | 2017 |     5.4123
+ united kingdom             | 2005 |     4.9665
+ united kingdom             | 2010 |     5.7416
+ united kingdom             | 2015 |     5.6094
+ united kingdom             | 2016 |      5.487
+ united rep. of tanzania    | 2005 |     3.5463
+ united rep. of tanzania    | 2009 |     3.9608
+ united rep. of tanzania    | 2010 |     4.5417
+ united rep. of tanzania    | 2014 |     3.3849
+ united rep. of tanzania    | 2018 |     3.6964
+ united states of america   | 2014 |     4.9617
+ uruguay                    | 2005 |     2.7148
+ uruguay                    | 2006 |     2.8803
+ uruguay                    | 2011 |     4.3553
+ uruguay                    | 2017 |     4.8403
+ uzbekistan                 | 2015 |     5.7864
+ uzbekistan                 | 2017 |     5.2813
+ vanuatu                    | 2001 |     8.9512
+ vanuatu                    | 2003 |     8.4417
+ vanuatu                    | 2008 |      5.783
+ vanuatu                    | 2009 |      5.013
+ vanuatu                    | 2015 |     5.5499
+ vanuatu                    | 2017 |     4.6954
+ venezuela                  | 2009 |     6.8747
+ viet nam                   | 2010 |     5.1372
+ viet nam                   | 2013 |      5.652
+ viet nam                   | 2018 |     4.1728
+ yemen                      | 2001 |     9.2377
+ yemen                      | 2008 |     5.1514
+ zambia                     | 2004 |     2.4634
+ zambia                     | 2005 |     1.7355
+ zambia                     | 2008 |     1.0997
+ zambia                     | 2015 |     4.6243
+ zambia                     | 2016 |     3.7479
+ zambia                     | 2017 |     3.7297
+ zambia                     | 2018 |     4.6674
+ zimbabwe                   | 2010 |     1.5441
+ zimbabwe                   | 2014 |     6.1384
+ zimbabwe                   | 2018 |     4.6045
+(760 rows)
+
+          country           | year | percentage 
+----------------------------+------+------------
+ afghanistan                | 2010 |    17.0676
+ afghanistan                | 2015 |     12.509
+ afghanistan                | 2017 |    15.6614
+ albania                    | 2005 |     11.358
+ albania                    | 2007 |    11.1772
+ albania                    | 2015 |    11.3177
+ albania                    | 2017 |    12.3908
+ albania                    | 2018 |     8.4355
+ algeria                    | 2008 |    11.4284
+ andorra                    | 2015 |    19.4891
+ andorra                    | 2018 |    19.3231
+ angola                     | 2005 |     7.9924
+ angola                     | 2006 |     7.4548
+ angola                     | 2010 |     8.6848
+ antigua and barbuda        | 2002 |    11.7015
+ antigua and barbuda        | 2009 |     6.9281
+ argentina                  | 2004 |    15.1393
+ argentina                  | 2005 |    15.8032
+ argentina                  | 2010 |     15.048
+ argentina                  | 2015 |    13.9633
+ argentina                  | 2017 |    13.2639
+ armenia                    | 2005 |    13.6481
+ armenia                    | 2009 |    13.4512
+ armenia                    | 2010 |    12.4005
+ armenia                    | 2014 |     9.3671
+ armenia                    | 2015 |    10.6564
+ armenia                    | 2017 |    10.4031
+ aruba                      | 2005 |    18.9007
+ aruba                      | 2009 |    21.5373
+ aruba                      | 2010 |    22.1437
+ aruba                      | 2015 |     22.855
+ aruba                      | 2016 |    21.3666
+ australia                  | 2000 |    13.3602
+ australia                  | 2005 |    13.5851
+ australia                  | 2010 |     14.324
+ australia                  | 2015 |    14.0797
+ australia                  | 2016 |    13.7711
+ austria                    | 2005 |    10.2619
+ austria                    | 2010 |    10.7891
+ austria                    | 2015 |    10.6935
+ austria                    | 2016 |    10.9539
+ azerbaijan                 | 2005 |    13.2232
+ azerbaijan                 | 2010 |     8.7008
+ azerbaijan                 | 2015 |     7.6311
+ azerbaijan                 | 2017 |     6.9504
+ bahamas                    | 2000 |    18.9228
+ bahrain                    | 2008 |    10.5587
+ bahrain                    | 2012 |     8.2885
+ bahrain                    | 2013 |     7.2153
+ bahrain                    | 2015 |     7.2974
+ bahrain                    | 2017 |     7.1804
+ bangladesh                 | 2004 |    15.9531
+ bangladesh                 | 2009 |    14.0299
+ bangladesh                 | 2012 |    15.5932
+ bangladesh                 | 2013 |    13.8228
+ bangladesh                 | 2016 |    11.4194
+ bangladesh                 | 2018 |    14.6466
+ barbados                   | 2005 |    17.5071
+ barbados                   | 2008 |    15.1719
+ barbados                   | 2010 |    17.4538
+ barbados                   | 2014 |    17.4511
+ barbados                   | 2016 |    14.0553
+ barbados                   | 2017 |    12.8792
+ belarus                    | 2005 |    12.6201
+ belarus                    | 2010 |    11.7781
+ belarus                    | 2011 |    11.6267
+ belarus                    | 2015 |    11.4617
+ belarus                    | 2017 |    12.2817
+ belgium                    | 2005 |    11.1742
+ belgium                    | 2010 |    12.0132
+ belgium                    | 2013 |    11.8932
+ belgium                    | 2015 |    12.1707
+ belgium                    | 2016 |    12.3284
+ belize                     | 2003 |    16.1317
+ belize                     | 2004 |    16.2485
+ belize                     | 2010 |    22.3818
+ belize                     | 2015 |    21.6129
+ belize                     | 2017 |    21.2952
+ benin                      | 2001 |    15.3106
+ benin                      | 2005 |    18.7904
+ benin                      | 2010 |     26.144
+ benin                      | 2015 |    17.4795
+ benin                      | 2018 |    17.7092
+ bermuda                    | 2005 |    12.1054
+ bermuda                    | 2010 |    12.9342
+ bermuda                    | 2014 |     7.7964
+ bermuda                    | 2015 |     9.0188
+ bermuda                    | 2017 |     7.7735
+ bhutan                     | 2005 |    22.8491
+ bhutan                     | 2010 |    11.0258
+ bhutan                     | 2014 |    17.8242
+ bhutan                     | 2015 |    26.3521
+ bhutan                     | 2018 |    22.7665
+ botswana                   | 2005 |    25.8235
+ botswana                   | 2009 |    20.4774
+ brazil                     | 2005 |    11.2652
+ brazil                     | 2010 |    14.1602
+ brazil                     | 2011 |     15.269
+ brazil                     | 2015 |    16.2182
+ brunei darussalam          | 2000 |     8.9207
+ brunei darussalam          | 2010 |     5.3021
+ brunei darussalam          | 2014 |     9.9846
+ brunei darussalam          | 2016 |     11.442
+ bulgaria                   | 2005 |    12.0725
+ bulgaria                   | 2010 |    11.1634
+ bulgaria                   | 2013 |    11.4398
+ burkina faso               | 2005 |    19.4942
+ burkina faso               | 2007 |    17.8638
+ burkina faso               | 2010 |    16.1728
+ burkina faso               | 2015 |    18.0271
+ burkina faso               | 2018 |    22.6612
+ burundi                    | 2004 |     9.1791
+ burundi                    | 2005 |    10.9593
+ burundi                    | 2010 |    16.5881
+ burundi                    | 2012 |    16.4283
+ burundi                    | 2013 |    17.2433
+ burundi                    | 2015 |    24.2166
+ burundi                    | 2018 |    19.9199
+ cabo verde                 | 2002 |    19.7662
+ cabo verde                 | 2004 |    20.8405
+ cabo verde                 | 2008 |     18.241
+ cabo verde                 | 2009 |    15.8866
+ cabo verde                 | 2010 |    14.2169
+ cabo verde                 | 2015 |    16.7482
+ cabo verde                 | 2016 |     17.843
+ cabo verde                 | 2017 |    16.4126
+ cambodia                   | 2001 |    11.3808
+ cambodia                   | 2002 |    10.1376
+ cambodia                   | 2004 |    12.4043
+ cambodia                   | 2010 |     7.3375
+ cambodia                   | 2012 |     7.1999
+ cambodia                   | 2013 |     9.5971
+ cambodia                   | 2014 |     8.7916
+ cambodia                   | 2018 |      8.839
+ cameroon                   | 2005 |    21.3776
+ cameroon                   | 2010 |    18.7539
+ cameroon                   | 2012 |    15.1762
+ cameroon                   | 2013 |     13.825
+ cameroon                   | 2015 |     13.244
+ cameroon                   | 2018 |    16.8832
+ canada                     | 2000 |    12.9826
+ canada                     | 2005 |    12.1781
+ canada                     | 2010 |     12.336
+ canada                     | 2011 |    12.2191
+ central african republic   | 2005 |     9.6805
+ central african republic   | 2008 |       7.86
+ central african republic   | 2010 |     6.4754
+ central african republic   | 2011 |     7.8255
+ chad                       | 2005 |    14.6728
+ chad                       | 2010 |     8.1193
+ chad                       | 2011 |    10.0833
+ chad                       | 2012 |     9.2124
+ chad                       | 2013 |    12.4615
+ chad                       | 2018 |    17.2146
+ chile                      | 2005 |    16.1991
+ chile                      | 2009 |    17.0356
+ chile                      | 2010 |    17.8436
+ chile                      | 2015 |    19.5941
+ chile                      | 2017 |    21.2996
+ china, hong kong sar       | 2005 |    22.4786
+ china, hong kong sar       | 2010 |    19.9094
+ china, hong kong sar       | 2012 |    18.6495
+ china, hong kong sar       | 2015 |    18.6086
+ china, hong kong sar       | 2018 |    18.7878
+ china, macao sar           | 2003 |    11.7037
+ china, macao sar           | 2005 |    10.4749
+ china, macao sar           | 2010 |    15.4131
+ china, macao sar           | 2015 |    13.3741
+ china, macao sar           | 2017 |    13.4763
+ colombia                   | 2004 |    15.4398
+ colombia                   | 2005 |    15.5356
+ colombia                   | 2010 |    16.4186
+ colombia                   | 2015 |    15.1338
+ colombia                   | 2018 |    15.9826
+ comoros                    | 2002 |    15.7897
+ comoros                    | 2008 |    29.2331
+ comoros                    | 2015 |    13.2537
+ congo                      | 2005 |     7.5978
+ congo                      | 2010 |    24.7278
+ congo                      | 2015 |     7.9504
+ congo                      | 2018 |    15.5677
+ cook islands               | 2000 |     6.6947
+ cook islands               | 2013 |     8.8089
+ cook islands               | 2014 |    11.5529
+ costa rica                 | 2004 |    20.4309
+ costa rica                 | 2010 |    22.8809
+ costa rica                 | 2015 |    23.3734
+ costa rica                 | 2018 |    26.0867
+ côte d’ivoire              | 2000 |     20.807
+ côte d’ivoire              | 2001 |     23.202
+ côte d’ivoire              | 2005 |    21.8457
+ côte d’ivoire              | 2010 |    22.7728
+ côte d’ivoire              | 2015 |    21.1732
+ côte d’ivoire              | 2018 |    18.3317
+ croatia                    | 2004 |     7.8366
+ croatia                    | 2010 |     8.8368
+ croatia                    | 2011 |     8.5506
+ croatia                    | 2013 |     9.5634
+ cyprus                     | 2005 |    15.8394
+ cyprus                     | 2010 |    15.6495
+ cyprus                     | 2015 |     16.211
+ cyprus                     | 2016 |    16.6923
+ czechia                    | 2005 |      9.203
+ czechia                    | 2010 |     9.3405
+ czechia                    | 2015 |    13.8825
+ czechia                    | 2016 |    14.1515
+ dem. rep. of the congo     | 2010 |     9.5785
+ dem. rep. of the congo     | 2013 |    16.1747
+ dem. rep. of the congo     | 2015 |    11.7384
+ dem. rep. of the congo     | 2017 |    14.0064
+ denmark                    | 2005 |    15.7793
+ denmark                    | 2010 |    15.1033
+ denmark                    | 2013 |    15.2174
+ denmark                    | 2014 |    13.8268
+ djibouti                   | 2005 |    22.7151
+ djibouti                   | 2007 |    22.5274
+ djibouti                   | 2010 |    12.3284
+ djibouti                   | 2015 |     8.5764
+ djibouti                   | 2016 |    12.0085
+ djibouti                   | 2018 |    13.9915
+ dominica                   | 2015 |    10.5221
+ dominican republic         | 2002 |    12.0797
+ dominican republic         | 2003 |     9.7018
+ dominican republic         | 2007 |    12.5779
+ ecuador                    | 2000 |     4.9573
+ ecuador                    | 2010 |    12.9966
+ ecuador                    | 2015 |    12.5977
+ egypt                      | 2005 |    15.0436
+ egypt                      | 2008 |    10.9418
+ el salvador                | 2005 |    14.6558
+ el salvador                | 2008 |    19.4488
+ el salvador                | 2010 |    16.1642
+ el salvador                | 2015 |    16.6016
+ el salvador                | 2016 |    16.1132
+ el salvador                | 2017 |    15.5921
+ el salvador                | 2018 |     14.945
+ eritrea                    | 2002 |     5.6334
+ eritrea                    | 2004 |     5.7419
+ eritrea                    | 2006 |     5.1681
+ estonia                    | 2002 |    15.1452
+ estonia                    | 2004 |    14.3061
+ estonia                    | 2005 |    14.2577
+ estonia                    | 2010 |    13.6428
+ estonia                    | 2013 |    12.5826
+ estonia                    | 2015 |    12.9666
+ estonia                    | 2016 |    13.1083
+ eswatini                   | 2005 |    20.8919
+ eswatini                   | 2010 |     18.283
+ eswatini                   | 2014 |    24.7954
+ ethiopia                   | 2002 |    16.1878
+ ethiopia                   | 2010 |     26.304
+ ethiopia                   | 2015 |    27.0987
+ fiji                       | 2004 |    23.7492
+ fiji                       | 2005 |    20.2661
+ fiji                       | 2009 |    15.8536
+ fiji                       | 2011 |    15.2348
+ fiji                       | 2013 |    14.3004
+ finland                    | 2005 |    12.2497
+ finland                    | 2010 |    11.9455
+ finland                    | 2015 |    12.4121
+ finland                    | 2016 |    12.3351
+ gabon                      | 2000 |    17.7065
+ gabon                      | 2010 |    13.3304
+ gabon                      | 2014 |    11.2255
+ gambia                     | 2005 |     5.3442
+ gambia                     | 2010 |    17.6112
+ gambia                     | 2012 |    13.7955
+ gambia                     | 2015 |    11.0329
+ gambia                     | 2018 |    11.1883
+ georgia                    | 2005 |    11.1813
+ georgia                    | 2008 |     8.9376
+ georgia                    | 2009 |     8.9983
+ georgia                    | 2012 |     6.7078
+ georgia                    | 2017 |    12.9534
+ germany                    | 2010 |     10.269
+ germany                    | 2015 |     10.978
+ germany                    | 2016 |    10.9254
+ ghana                      | 2005 |      23.43
+ ghana                      | 2010 |    20.6961
+ ghana                      | 2014 |    20.9851
+ ghana                      | 2015 |    23.8088
+ ghana                      | 2018 |    18.5982
+ greece                     | 2005 |     8.7002
+ grenada                    | 2003 |     10.809
+ grenada                    | 2017 |    14.0412
+ guatemala                  | 2008 |    23.3482
+ guatemala                  | 2010 |    19.2969
+ guatemala                  | 2015 |    24.0855
+ guatemala                  | 2018 |    23.7495
+ guinea                     | 2005 |    10.9475
+ guinea                     | 2010 |    12.4383
+ guinea                     | 2015 |    11.5988
+ guinea                     | 2018 |    14.8701
+ guinea-bissau              | 2010 |     9.0692
+ guinea-bissau              | 2013 |    16.1914
+ guyana                     | 2004 |    11.0807
+ guyana                     | 2005 |    13.8234
+ guyana                     | 2010 |    11.8387
+ guyana                     | 2012 |    10.1867
+ guyana                     | 2015 |    17.8027
+ guyana                     | 2018 |    15.9974
+ haiti                      | 2015 |    14.5678
+ haiti                      | 2018 |    14.4404
+ honduras                   | 2013 |    19.8641
+ honduras                   | 2015 |    24.6446
+ honduras                   | 2018 |    22.9544
+ hungary                    | 2005 |    10.8006
+ hungary                    | 2010 |      9.671
+ hungary                    | 2015 |     9.1287
+ hungary                    | 2016 |    10.0679
+ iceland                    | 2005 |    17.8101
+ iceland                    | 2010 |     14.604
+ iceland                    | 2015 |     18.158
+ iceland                    | 2016 |    16.8394
+ india                      | 2005 |    11.2085
+ india                      | 2010 |    11.8337
+ india                      | 2013 |    14.0502
+ indonesia                  | 2005 |    15.1488
+ indonesia                  | 2010 |    16.6542
+ indonesia                  | 2014 |    17.6715
+ indonesia                  | 2015 |    20.5033
+ iran                       | 2002 |    26.3335
+ iran                       | 2005 |     22.322
+ iran                       | 2010 |    18.8044
+ iran                       | 2014 |    19.6649
+ iran                       | 2015 |    18.5688
+ iran                       | 2018 |    21.1457
+ ireland                    | 2005 |    13.5624
+ ireland                    | 2010 |      9.284
+ ireland                    | 2015 |     13.012
+ ireland                    | 2016 |    13.4112
+ israel                     | 2005 |    13.1958
+ israel                     | 2010 |    13.7138
+ israel                     | 2015 |    15.5367
+ israel                     | 2016 |    15.4548
+ italy                      | 2005 |     9.0137
+ italy                      | 2010 |      8.724
+ italy                      | 2015 |     8.1204
+ italy                      | 2016 |     7.8086
+ jamaica                    | 2004 |     11.733
+ jamaica                    | 2005 |    14.2694
+ jamaica                    | 2008 |    19.1194
+ jamaica                    | 2009 |    17.5528
+ jamaica                    | 2010 |    16.1029
+ jamaica                    | 2015 |    20.0515
+ jamaica                    | 2018 |     18.584
+ japan                      | 2014 |     9.0933
+ japan                      | 2016 |     8.3799
+ jordan                     | 2018 |    11.6147
+ kazakhstan                 | 2005 |     10.286
+ kazakhstan                 | 2009 |    13.0409
+ kazakhstan                 | 2015 |     12.193
+ kazakhstan                 | 2016 |    13.8384
+ kazakhstan                 | 2018 |    13.8802
+ kenya                      | 2004 |    26.6682
+ kenya                      | 2005 |    27.4693
+ kenya                      | 2006 |    25.0814
+ kenya                      | 2010 |     20.556
+ kenya                      | 2015 |    16.6647
+ kenya                      | 2018 |     19.104
+ kiribati                   | 2001 |    11.5161
+ kuwait                     | 2005 |    13.8541
+ kuwait                     | 2006 |      13.37
+ kyrgyzstan                 | 2005 |    16.7684
+ kyrgyzstan                 | 2010 |    15.6813
+ kyrgyzstan                 | 2014 |    14.1972
+ kyrgyzstan                 | 2015 |    15.6386
+ kyrgyzstan                 | 2017 |    15.7303
+ lao people's dem. rep.     | 2002 |    15.2627
+ lao people's dem. rep.     | 2005 |    14.1278
+ lao people's dem. rep.     | 2010 |      7.247
+ lao people's dem. rep.     | 2014 |    11.7574
+ latvia                     | 2004 |    14.5018
+ latvia                     | 2010 |     11.809
+ latvia                     | 2015 |    14.1274
+ latvia                     | 2016 |    12.8933
+ lebanon                    | 2005 |     8.4213
+ lebanon                    | 2010 |     5.5343
+ lebanon                    | 2011 |     5.7338
+ lebanon                    | 2013 |     8.5755
+ lesotho                    | 2001 |    23.8489
+ lesotho                    | 2005 |    32.4049
+ lesotho                    | 2008 |    24.6976
+ lesotho                    | 2018 |     13.893
+ liberia                    | 2008 |     6.4541
+ liberia                    | 2012 |     5.1843
+ liberia                    | 2014 |     6.8935
+ liberia                    | 2018 |     8.0627
+ lithuania                  | 2005 |    14.5796
+ lithuania                  | 2010 |    12.8588
+ lithuania                  | 2015 |    12.2883
+ lithuania                  | 2016 |    12.0252
+ luxembourg                 | 2001 |     9.3011
+ luxembourg                 | 2015 |     9.4372
+ madagascar                 | 2005 |     18.033
+ madagascar                 | 2008 |    16.2581
+ madagascar                 | 2009 |    22.5858
+ madagascar                 | 2012 |    20.3258
+ madagascar                 | 2013 |    13.9894
+ madagascar                 | 2015 |    16.9629
+ madagascar                 | 2018 |    19.8182
+ malawi                     | 2003 |    16.5526
+ malawi                     | 2010 |     12.518
+ malawi                     | 2013 |    20.4242
+ malawi                     | 2015 |    21.5516
+ malawi                     | 2016 |    17.1036
+ malawi                     | 2018 |    15.7802
+ malaysia                   | 2004 |    21.0129
+ malaysia                   | 2009 |    18.4646
+ malaysia                   | 2010 |    18.4062
+ malaysia                   | 2013 |    19.4543
+ malaysia                   | 2015 |    19.8108
+ malaysia                   | 2018 |    19.7386
+ maldives                   | 2005 |     13.015
+ maldives                   | 2010 |    12.4606
+ maldives                   | 2015 |    12.8908
+ maldives                   | 2016 |    11.2815
+ mali                       | 2005 |    16.2803
+ mali                       | 2010 |    16.5039
+ mali                       | 2015 |    18.1555
+ mali                       | 2016 |    13.9039
+ mali                       | 2017 |    16.5343
+ malta                      | 2004 |    10.5549
+ malta                      | 2010 |    15.7192
+ malta                      | 2015 |    13.1509
+ marshall islands           | 2002 |    14.8142
+ marshall islands           | 2003 |    22.5088
+ mauritania                 | 2004 |     8.1758
+ mauritania                 | 2010 |    16.0353
+ mauritania                 | 2013 |    11.4054
+ mauritania                 | 2016 |     9.3306
+ mauritius                  | 2005 |    17.0881
+ mauritius                  | 2010 |    14.5732
+ mauritius                  | 2015 |    19.4571
+ mauritius                  | 2018 |    19.6478
+ mexico                     | 2005 |    21.9038
+ mexico                     | 2010 |    18.6426
+ mexico                     | 2011 |     18.421
+ mexico                     | 2015 |    19.0188
+ mexico                     | 2016 |    17.9393
+ micronesia                 | 2000 |     9.9651
+ micronesia                 | 2015 |    22.3124
+ monaco                     | 2004 |      5.926
+ monaco                     | 2010 |     6.3632
+ monaco                     | 2014 |     5.0089
+ monaco                     | 2016 |     6.5966
+ monaco                     | 2017 |     6.9806
+ mongolia                   | 2000 |    16.0748
+ mongolia                   | 2002 |    20.3115
+ mongolia                   | 2004 |    13.5945
+ mongolia                   | 2010 |    14.7111
+ mongolia                   | 2013 |    15.3675
+ mongolia                   | 2015 |    13.5471
+ mongolia                   | 2017 |    12.6456
+ morocco                    | 2008 |    17.4706
+ morocco                    | 2009 |    17.2953
+ mozambique                 | 2005 |    22.7182
+ mozambique                 | 2006 |      18.55
+ mozambique                 | 2013 |    18.9781
+ mozambique                 | 2018 |    17.8806
+ myanmar                    | 2011 |     5.9286
+ myanmar                    | 2017 |    10.0971
+ myanmar                    | 2018 |     10.349
+ myanmar                    | 2019 |    10.4575
+ namibia                    | 2000 |    21.9251
+ namibia                    | 2003 |    20.3282
+ namibia                    | 2008 |    24.8616
+ namibia                    | 2010 |    26.1235
+ namibia                    | 2014 |     7.6415
+ nepal                      | 2003 |    21.3127
+ nepal                      | 2005 |    22.2942
+ nepal                      | 2010 |    16.0324
+ nepal                      | 2015 |    16.9897
+ nepal                      | 2018 |    14.1019
+ netherlands                | 2005 |    12.3359
+ netherlands                | 2010 |    11.6691
+ netherlands                | 2015 |    12.2097
+ netherlands                | 2016 |    12.8069
+ new zealand                | 2005 |     16.258
+ new zealand                | 2010 |    15.6885
+ new zealand                | 2015 |    16.3751
+ new zealand                | 2016 |    16.8201
+ nicaragua                  | 2002 |    15.6878
+ nicaragua                  | 2003 |     14.887
+ nicaragua                  | 2010 |    22.7537
+ nicaragua                  | 2015 |    18.6543
+ nicaragua                  | 2016 |    17.9196
+ niger                      | 2003 |    13.8455
+ niger                      | 2010 |     18.104
+ niger                      | 2015 |    18.5109
+ niger                      | 2017 |    13.2152
+ niger                      | 2018 |    16.7811
+ north macedonia            | 2002 |     8.6409
+ norway                     | 2005 |    16.5484
+ norway                     | 2010 |    15.2273
+ norway                     | 2015 |    15.7281
+ norway                     | 2016 |    15.9716
+ oman                       | 2002 |    11.0625
+ oman                       | 2005 |    10.0536
+ oman                       | 2009 |    10.9492
+ oman                       | 2013 |    11.0802
+ pakistan                   | 2005 |    13.7775
+ pakistan                   | 2007 |    15.4455
+ pakistan                   | 2010 |    11.8647
+ pakistan                   | 2013 |     11.514
+ pakistan                   | 2015 |    13.1873
+ pakistan                   | 2017 |    14.5448
+ palau                      | 2001 |    15.3079
+ palau                      | 2002 |    15.5377
+ panama                     | 2002 |    16.9575
+ panama                     | 2004 |    14.5683
+ panama                     | 2008 |    14.8898
+ panama                     | 2011 |    13.0197
+ papua new guinea           | 2018 |     8.7252
+ paraguay                   | 2004 |    18.2182
+ paraguay                   | 2010 |    18.7624
+ paraguay                   | 2012 |    19.6342
+ paraguay                   | 2016 |    18.1543
+ peru                       | 2005 |    14.2785
+ peru                       | 2010 |    13.5556
+ peru                       | 2015 |    17.5749
+ peru                       | 2018 |     17.132
+ philippines                | 2005 |    12.4224
+ philippines                | 2009 |    13.2112
+ poland                     | 2005 |    12.2223
+ poland                     | 2010 |    11.0646
+ poland                     | 2015 |     11.548
+ poland                     | 2016 |     11.286
+ portugal                   | 2005 |    10.8581
+ portugal                   | 2010 |    10.4266
+ portugal                   | 2015 |     10.152
+ qatar                      | 2005 |    13.7448
+ qatar                      | 2009 |    14.8357
+ qatar                      | 2010 |    13.8173
+ qatar                      | 2014 |    12.7432
+ qatar                      | 2017 |     8.5609
+ republic of moldova        | 2005 |    19.2967
+ republic of moldova        | 2010 |     22.267
+ republic of moldova        | 2014 |    18.7651
+ republic of moldova        | 2018 |    17.4611
+ romania                    | 2005 |    10.8367
+ romania                    | 2010 |     9.1291
+ romania                    | 2015 |     9.0945
+ romania                    | 2016 |     9.5106
+ russian federation         | 2005 |    11.9506
+ russian federation         | 2008 |    11.9592
+ russian federation         | 2013 |    10.8618
+ russian federation         | 2015 |    10.8695
+ russian federation         | 2016 |    10.9853
+ rwanda                     | 2000 |    18.8353
+ rwanda                     | 2001 |    25.3131
+ rwanda                     | 2010 |    17.5481
+ rwanda                     | 2015 |    12.5391
+ rwanda                     | 2016 |    12.2784
+ rwanda                     | 2018 |    10.8046
+ saint kitts and nevis      | 2005 |    11.0562
+ saint kitts and nevis      | 2007 |    13.0518
+ saint kitts and nevis      | 2015 |     8.6355
+ saint lucia                | 2004 |     15.041
+ saint lucia                | 2005 |     16.307
+ saint lucia                | 2006 |    19.0114
+ saint lucia                | 2010 |    14.2021
+ saint lucia                | 2011 |    13.8368
+ saint lucia                | 2015 |     16.453
+ saint lucia                | 2018 |    14.3639
+ saint vincent & grenadines | 2005 |     22.592
+ saint vincent & grenadines | 2010 |    15.4856
+ saint vincent & grenadines | 2018 |    18.8119
+ samoa                      | 2001 |    12.7703
+ samoa                      | 2002 |    12.7938
+ samoa                      | 2008 |    16.0642
+ samoa                      | 2016 |    10.4792
+ san marino                 | 2010 |    10.7813
+ san marino                 | 2011 |    10.6404
+ san marino                 | 2017 |    13.1036
+ sao tome and principe      | 2005 |    12.1255
+ sao tome and principe      | 2010 |    19.3274
+ sao tome and principe      | 2014 |    12.3247
+ sao tome and principe      | 2015 |    11.2973
+ sao tome and principe      | 2018 |    20.1165
+ saudi arabia               | 2005 |    19.2923
+ saudi arabia               | 2008 |    19.2574
+ senegal                    | 2005 |     21.771
+ senegal                    | 2010 |    24.0464
+ senegal                    | 2015 |    23.7586
+ senegal                    | 2016 |    21.3372
+ senegal                    | 2018 |    21.5294
+ serbia                     | 2010 |    10.0982
+ serbia                     | 2015 |     8.8764
+ serbia                     | 2017 |     9.2565
+ seychelles                 | 2002 |     9.2202
+ seychelles                 | 2003 |    12.0432
+ seychelles                 | 2006 |    10.9545
+ seychelles                 | 2014 |    12.0846
+ seychelles                 | 2016 |    11.7234
+ sierra leone               | 2005 |    15.5066
+ sierra leone               | 2010 |    12.8019
+ sierra leone               | 2011 |    12.4115
+ sierra leone               | 2014 |    15.0917
+ sierra leone               | 2018 |    32.4732
+ singapore                  | 2005 |    22.2788
+ singapore                  | 2010 |    18.5717
+ singapore                  | 2013 |    28.8392
+ slovakia                   | 2005 |     9.4661
+ slovakia                   | 2010 |     9.7662
+ slovakia                   | 2015 |    10.2806
+ slovakia                   | 2016 |     9.4151
+ slovenia                   | 2003 |     13.696
+ slovenia                   | 2005 |    13.2906
+ slovenia                   | 2010 |    12.0802
+ slovenia                   | 2015 |    11.2185
+ slovenia                   | 2016 |    11.7452
+ solomon islands            | 2010 |    17.4785
+ south africa               | 2005 |     19.925
+ south africa               | 2006 |     18.005
+ south africa               | 2009 |    18.3063
+ south africa               | 2010 |    18.0444
+ south africa               | 2014 |    19.1385
+ south africa               | 2015 |    18.6994
+ south africa               | 2018 |    18.8735
+ south sudan                | 2014 |     4.1314
+ south sudan                | 2015 |     3.2755
+ south sudan                | 2016 |     0.9077
+ south sudan                | 2017 |     1.0737
+ south sudan                | 2018 |     0.8754
+ spain                      | 2005 |    10.7791
+ spain                      | 2010 |    10.5619
+ spain                      | 2015 |      9.771
+ spain                      | 2016 |     9.9732
+ sri lanka                  | 2010 |     8.6057
+ sri lanka                  | 2015 |    10.9503
+ sri lanka                  | 2018 |    11.3309
+ sudan                      | 2005 |     5.9668
+ sudan                      | 2009 |    10.7818
+ sweden                     | 2005 |    12.7627
+ sweden                     | 2010 |     13.306
+ sweden                     | 2015 |    15.5015
+ sweden                     | 2016 |    15.7322
+ switzerland                | 2005 |    15.8207
+ switzerland                | 2010 |    15.3909
+ switzerland                | 2015 |    15.5289
+ switzerland                | 2016 |    15.5125
+ syrian arab republic       | 2002 |    16.8261
+ syrian arab republic       | 2004 |    17.1454
+ syrian arab republic       | 2009 |    19.1841
+ tajikistan                 | 2005 |    15.2934
+ tajikistan                 | 2010 |    15.3315
+ tajikistan                 | 2015 |    16.3934
+ thailand                   | 2004 |    21.4577
+ thailand                   | 2005 |    20.5468
+ thailand                   | 2010 |    16.2226
+ thailand                   | 2013 |    19.1259
+ timor-leste                | 2010 |     9.1542
+ timor-leste                | 2014 |     6.7729
+ timor-leste                | 2015 |      8.637
+ timor-leste                | 2018 |     7.9341
+ togo                       | 2000 |    24.4237
+ togo                       | 2005 |    17.6781
+ togo                       | 2010 |    19.6158
+ togo                       | 2015 |     16.665
+ togo                       | 2016 |    15.9913
+ togo                       | 2017 |      23.14
+ togo                       | 2018 |    21.7691
+ tonga                      | 2004 |    18.1025
+ trinidad and tobago        | 2003 |    13.9101
+ tunisia                    | 2000 |    24.5918
+ tunisia                    | 2002 |    22.8801
+ tunisia                    | 2005 |    26.6957
+ tunisia                    | 2008 |    25.2587
+ tunisia                    | 2010 |    24.8468
+ tunisia                    | 2015 |     22.625
+ turkey                     | 2004 |     8.6517
+ turkey                     | 2006 |      8.017
+ turkmenistan               | 2012 |    20.7955
+ turks and caicos islands   | 2015 |    14.2622
+ turks and caicos islands   | 2018 |    12.1233
+ uganda                     | 2004 |    20.3083
+ uganda                     | 2010 |    10.1049
+ uganda                     | 2014 |     10.876
+ uganda                     | 2015 |    12.1362
+ uganda                     | 2018 |     10.917
+ ukraine                    | 2000 |     11.359
+ ukraine                    | 2005 |    13.7387
+ ukraine                    | 2009 |    15.0548
+ ukraine                    | 2014 |    13.1214
+ ukraine                    | 2017 |    13.0514
+ united kingdom             | 2005 |    13.1742
+ united kingdom             | 2010 |     13.026
+ united kingdom             | 2015 |    13.8366
+ united kingdom             | 2016 |    13.8311
+ united rep. of tanzania    | 2005 |    18.1431
+ united rep. of tanzania    | 2009 |    17.4109
+ united rep. of tanzania    | 2010 |     19.648
+ united rep. of tanzania    | 2014 |    17.2971
+ united rep. of tanzania    | 2018 |      20.56
+ united states of america   | 2014 |    13.3971
+ uruguay                    | 2005 |     9.4712
+ uruguay                    | 2006 |     9.8413
+ uruguay                    | 2011 |    15.1627
+ uruguay                    | 2017 |    14.9361
+ uzbekistan                 | 2015 |    23.6458
+ uzbekistan                 | 2017 |    23.0309
+ vanuatu                    | 2001 |    40.0776
+ vanuatu                    | 2003 |    44.8018
+ vanuatu                    | 2008 |    21.4056
+ vanuatu                    | 2009 |    18.7232
+ vanuatu                    | 2015 |    13.7338
+ vanuatu                    | 2017 |    12.6921
+ viet nam                   | 2010 |    17.1145
+ viet nam                   | 2013 |    18.5155
+ viet nam                   | 2018 |    14.4683
+ yemen                      | 2001 |    30.3213
+ yemen                      | 2008 |    12.4892
+ zambia                     | 2004 |     10.585
+ zambia                     | 2005 |     7.7297
+ zambia                     | 2008 |     5.6518
+ zambia                     | 2015 |    16.3353
+ zambia                     | 2016 |    15.4018
+ zambia                     | 2017 |    14.8075
+ zambia                     | 2018 |     17.048
+ zimbabwe                   | 2010 |     8.5367
+ zimbabwe                   | 2014 |    30.0152
+ zimbabwe                   | 2018 |    19.0398
+(723 rows)
+
